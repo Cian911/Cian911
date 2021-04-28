@@ -39,6 +39,8 @@ set shiftwidth=2
 set softtabstop=2
 set expandtab
 set noshiftround
+set autoindent
+set smartindent
 
 " Cursor motion
 set scrolloff=3
@@ -49,6 +51,10 @@ runtime! macros/matchit.vim
 " Move up/down editor lines
 nnoremap j gj
 nnoremap k gk
+
+" Set global clipboard
+set clipboard=unnamedplus
+set guioptions+=a
 
 " Map ctrl-n to open NerdTree Menu
 map <C-n> :NERDTreeToggle<CR>
@@ -144,4 +150,10 @@ Plug 'tpope/vim-rails'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
 Plug 'valloric/youcompleteme'
+Plug 'airblade/vim-gitgutter'
+Plug 'mattn/emmet-vim'
 call plug#end()
+
+" Cians custom remappings
+nnoremap <C-p> :GFiles<CR>
+nnoremap <C-t>m :term<CR>
