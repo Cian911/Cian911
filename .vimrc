@@ -152,6 +152,7 @@ Plug 'tpope/vim-surround'
 Plug 'valloric/youcompleteme'
 Plug 'airblade/vim-gitgutter'
 Plug 'mattn/emmet-vim'
+Plug 'vim-airline/vim-airline'
 call plug#end()
 
 " Cians custom remappings
