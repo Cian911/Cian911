@@ -158,3 +158,4 @@ call plug#end()
 " Cians custom remappings
 nnoremap <C-p> :GFiles<CR>
 nnoremap <C-t>m :term<CR>
+nnoremap <C-r>g :Rg<CR>
