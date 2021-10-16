@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Cian's github stats](https://github-readme-stats.vercel.app/api?username=Cian911)
+My name is Cian, I'm an open source enthusiast living in Dublin/Ireland. I'm interested in all things about technology, from low level systems, DevOps and infrastructure to software development in a multitude of languages like Golang, Ruby, C and many more.
+
+![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
+
 
 <!--
 **Cian911/Cian911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
