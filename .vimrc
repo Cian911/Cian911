@@ -169,6 +169,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'github/copilot.vim'
 Plug 'hrsh7th/nvim-cmp'
 Plug 'christoomey/vim-titlecase'
+Plug 'ericbn/vim-relativize'
 call plug#end()
 
 let g:airline_theme='onedark'
@@ -180,12 +181,19 @@ nnoremap <C-t>m :sp term://zsh<CR>
 nnoremap <C-r>g :Rg<CR>
 nnoremap <C-n>h :noh<CR>
 tnoremap <C-k>t <C-\><C-n>
+" Jump to start of weord at beginning of line
+nnoremap 0 ^
+" Yank till end of line
+nnoremap Y y$
 
 " Custom commands
 :command Json %!python -m json.tool
 
 " Set mouse mode = a to make it easier to switch panes
 :set mouse=a
+
+" Set relative line numbers
+set relativenumber
 
 " COC-METALS MAPPINGS
 " Syntax highlighting for json with comment support
