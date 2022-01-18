@@ -195,6 +195,20 @@ nnoremap Y y$
 " Set relative line numbers
 set relativenumber
 
+" Windows
+"------------------------------------------------------------------------------
+" Split window horizontally
+nmap sh :split<Return><C-w>w
+" Split window vertically
+nmap sv :vsplit<Return><C-w>w
+
+" Move between windows
+nmap <Space> <C-w>w
+nmap s<left> <C-w>h
+nmap s<up> <C-w>k
+nmap s<down> <C-w>j
+nmap s<right> <C-w>l
+
 " COC-METALS MAPPINGS
 " Syntax highlighting for json with comment support
 autocmd FileType json syntax match Comment +\/\/.\+$+
