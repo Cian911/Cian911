@@ -174,9 +174,11 @@ call plug#end()
 
 let g:airline_theme='onedark'
 colorscheme onedark
+command! -bang CodeFiles call fzf#vim#files('~/code', <bang>0)
 
 " Cians custom remappings
-nnoremap <C-p> :GFiles<CR>
+nnoremap <C-p> :Files<CR>
+nnoremap <C-c>f :CodeFiles<CR>
 nnoremap <C-t>m :sp term://zsh<CR>
 nnoremap <C-r>g :Rg<CR>
 nnoremap <C-n>h :noh<CR>
