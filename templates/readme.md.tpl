@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland - 🇧🇷.
+I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland.
+
+![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -12,12 +14,6 @@ I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland - 🇧🇷.
 
 {{ range recentReleases 5 }}
 - [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
-{{- end }}
-
-#### ❤️ Sponsors
-
-{{- range sponsors 5 }}
-- [{{ .User.Name }}]({{ .User.URL }}) ({{ humanize .CreatedAt }})
 {{- end }}
 
 #### ⭐ Recent Stars
