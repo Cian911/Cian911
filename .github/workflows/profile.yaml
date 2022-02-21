@@ -1,0 +1,27 @@
+name: Update Profile
+
+on:
+  push:
+  schedule:
+    - cron: "0 */5 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          template: "templates/readme.md.tpl"
+          writeTo: "README.md"
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: 'DOCS: Update README.'
+          branch: main
+          commit_user_name: readme-scribe robot
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe robot <actions@github.com>
