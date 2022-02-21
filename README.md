@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland - 🇧🇷.
+I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland.
+
+![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
 - **[Cian911/homebrew-switchboard](https://github.com/Cian911/homebrew-switchboard)**
@@ -17,8 +19,6 @@ I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland - 🇧🇷.
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (2 months ago)
 - [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (4 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (6 months ago)
-
-#### ❤️ Sponsors
 
 #### ⭐ Recent Stars
 
