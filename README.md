@@ -30,6 +30,6 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 weeks ago)
 
 #### 📄 Latest posts
-- [Introducing Switchboard](https://ciangallagher.net/2022/01/28/Introducing-switchboard/) (3 weeks ago)
-- [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.net/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (3 years ago)
-- [Building your own MVC Framework in PHP (Part 3)](https://ciangallagher.net/2013/11/03/Building-your-own-mvc-framework-in-php-part-3/) (8 years ago)
+- [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (3 weeks ago)
+- [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (3 years ago)
+- [Building your own MVC Framework in PHP (Part 3)](https://ciangallagher.me/2013/11/03/Building-your-own-mvc-framework-in-php-part-3/) (8 years ago)
