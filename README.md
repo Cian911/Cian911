@@ -14,7 +14,7 @@ I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (4 weeks ago)
+- [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (1 month ago)
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (1 month ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (2 months ago)
 - [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (4 months ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Sensior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (2 days ago)
-- **[weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)** - A GitOps Terraform controller for Kubernetes (2 weeks ago)
+- **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (3 days ago)
+- **[weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)** - A GitOps Terraform controller for Kubernetes (3 weeks ago)
 - **[jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)** - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  (3 weeks ago)
 - **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 weeks ago)
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (4 weeks ago)
