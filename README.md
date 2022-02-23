@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (today)
-- **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (3 days ago)
+- **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (1 day ago)
+- **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (4 days ago)
 - **[weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)** - A GitOps Terraform controller for Kubernetes (3 weeks ago)
-- **[jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)** - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  (3 weeks ago)
-- **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 weeks ago)
+- **[jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)** - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  (4 weeks ago)
+- **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 month ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (3 weeks ago)
