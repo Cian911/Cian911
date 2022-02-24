@@ -16,15 +16,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (1 month ago)
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (1 month ago)
-- [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (2 months ago)
+- [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (3 months ago)
 - [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (4 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (6 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (1 day ago)
-- **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (4 days ago)
+- **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (2 days ago)
+- **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (5 days ago)
 - **[weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)** - A GitOps Terraform controller for Kubernetes (3 weeks ago)
 - **[jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)** - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  (4 weeks ago)
 - **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 month ago)
