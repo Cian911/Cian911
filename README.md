@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[dracula/tmux](https://github.com/dracula/tmux)** - 🧛🏻‍♂️ Dark theme for tmux (3 days ago)
-- **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (5 days ago)
+- **[dracula/tmux](https://github.com/dracula/tmux)** - 🧛🏻‍♂️ Dark theme for tmux (4 days ago)
+- **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (6 days ago)
 - **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (1 week ago)
 - **[weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)** - A GitOps Terraform controller for Kubernetes (3 weeks ago)
 - **[jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)** - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  (1 month ago)
