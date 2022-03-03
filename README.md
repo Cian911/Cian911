@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[dracula/tmux](https://github.com/dracula/tmux)** - 🧛🏻‍♂️ Dark theme for tmux (6 days ago)
+- **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (1 day ago)
+- **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (1 day ago)
+- **[dracula/tmux](https://github.com/dracula/tmux)** - 🧛🏻‍♂️ Dark theme for tmux (1 week ago)
 - **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (1 week ago)
 - **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (1 week ago)
-- **[weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)** - A GitOps Terraform controller for Kubernetes (4 weeks ago)
-- **[jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)** - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  (1 month ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (1 month ago)
