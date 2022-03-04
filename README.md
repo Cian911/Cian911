@@ -15,7 +15,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (1 month ago)
-- [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (1 month ago)
+- [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (2 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (3 months ago)
 - [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (4 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (6 months ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (1 day ago)
-- **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (1 day ago)
+- **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (2 days ago)
+- **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (2 days ago)
 - **[dracula/tmux](https://github.com/dracula/tmux)** - 🧛🏻‍♂️ Dark theme for tmux (1 week ago)
 - **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (1 week ago)
 - **[cantino/mcfly](https://github.com/cantino/mcfly)** - Fly through your shell history. Great Scott! (1 week ago)
