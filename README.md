@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (today)
-- **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (3 days ago)
-- **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (3 days ago)
+- **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (1 day ago)
+- **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (4 days ago)
+- **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (4 days ago)
 - **[dracula/tmux](https://github.com/dracula/tmux)** - 🧛🏻‍♂️ Dark theme for tmux (1 week ago)
 - **[bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)** - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (1 week ago)
 
