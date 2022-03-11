@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 day ago)
-- **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (5 days ago)
+- **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (2 days ago)
+- **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (6 days ago)
 - **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (1 week ago)
 - **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (1 week ago)
 - **[dracula/tmux](https://github.com/dracula/tmux)** - 🧛🏻‍♂️ Dark theme for tmux (2 weeks ago)
