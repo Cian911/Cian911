@@ -17,13 +17,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (1 month ago)
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (2 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (3 months ago)
-- [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (4 months ago)
+- [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (5 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (6 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (5 days ago)
+- **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (6 days ago)
 - **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (1 week ago)
 - **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (1 week ago)
 - **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (1 week ago)
