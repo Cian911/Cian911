@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
+- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
 - **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 week ago)
-- **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (1 week ago)
+- **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (2 weeks ago)
 - **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (2 weeks ago)
 - **[nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** - Find, Filter, Preview, Pick. All lua, all the time. (2 weeks ago)
 
