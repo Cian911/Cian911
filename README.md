@@ -14,10 +14,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
+- [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (today)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (1 month ago)
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (2 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (3 months ago)
-- [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (5 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (7 months ago)
 
 #### ⭐ Recent Stars
