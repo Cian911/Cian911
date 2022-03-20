@@ -18,12 +18,12 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (2 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (3 months ago)
 - [Cian911/gomerge @ 2.2.0](https://github.com/Cian911/gomerge/releases/tag/2.2.0) (5 months ago)
-- [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (6 months ago)
+- [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (7 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
+- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
 - **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 week ago)
 - **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (2 weeks ago)
 - **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (2 weeks ago)
