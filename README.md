@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (1 day ago)
+- [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (2 days ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (1 month ago)
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (2 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (3 months ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[lotabout/skim](https://github.com/lotabout/skim)** - Fuzzy Finder in rust! (1 day ago)
-- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
+- **[lotabout/skim](https://github.com/lotabout/skim)** - Fuzzy Finder in rust! (2 days ago)
+- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
 - **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 week ago)
 - **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (2 weeks ago)
 - **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (2 weeks ago)
