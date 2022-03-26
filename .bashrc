@@ -105,6 +105,9 @@ alias gd='git diff'
 alias gc='git commit'
 alias ga='git add'
 
+# xclip
+alias xclip='xclip -selection "clipboard" -i '
+
 # Kubernetes Aliases & Handy Functions
 
 # Switch current context 
