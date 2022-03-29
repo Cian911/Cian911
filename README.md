@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[wincent/wincent](https://github.com/wincent/wincent)** - 💾 Dot-files (today)
 - **[lotabout/skim](https://github.com/lotabout/skim)** - Fuzzy Finder in rust! (1 week ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (2 weeks ago)
 - **[spf13/viper](https://github.com/spf13/viper)** - Go configuration with fangs (3 weeks ago)
-- **[catppuccin/nvim](https://github.com/catppuccin/nvim)** - 🍨 Soothing pastel theme for NeoVim (3 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 months ago)
