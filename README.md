@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[phoban01/cue-flux-controller](https://github.com/phoban01/cue-flux-controller)** - A Kubernetes controller for CUE via Flux (today)
-- **[wincent/wincent](https://github.com/wincent/wincent)** - 💾 Dot-files (3 days ago)
+- **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (1 day ago)
+- **[phoban01/cue-flux-controller](https://github.com/phoban01/cue-flux-controller)** - A Kubernetes controller for CUE via Flux (1 day ago)
+- **[wincent/wincent](https://github.com/wincent/wincent)** - 💾 Dot-files (4 days ago)
 - **[lotabout/skim](https://github.com/lotabout/skim)** - Fuzzy Finder in rust! (1 week ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
-- **[muesli/beehive](https://github.com/muesli/beehive)** - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 months ago)
