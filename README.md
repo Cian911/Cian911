@@ -14,19 +14,19 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (1 week ago)
+- [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (2 weeks ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (2 months ago)
-- [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (2 months ago)
+- [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (3 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (4 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (7 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (1 day ago)
-- **[phoban01/cue-flux-controller](https://github.com/phoban01/cue-flux-controller)** - A Kubernetes controller for CUE via Flux (1 day ago)
-- **[wincent/wincent](https://github.com/wincent/wincent)** - 💾 Dot-files (4 days ago)
-- **[lotabout/skim](https://github.com/lotabout/skim)** - Fuzzy Finder in rust! (1 week ago)
+- **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (2 days ago)
+- **[phoban01/cue-flux-controller](https://github.com/phoban01/cue-flux-controller)** - A Kubernetes controller for CUE via Flux (2 days ago)
+- **[wincent/wincent](https://github.com/wincent/wincent)** - 💾 Dot-files (5 days ago)
+- **[lotabout/skim](https://github.com/lotabout/skim)** - Fuzzy Finder in rust! (2 weeks ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 
 #### 📄 Latest posts
