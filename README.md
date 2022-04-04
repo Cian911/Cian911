@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[kris-nova/boopkit](https://github.com/kris-nova/boopkit)** - Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  (today)
 - **[muesli/go-app-paths](https://github.com/muesli/go-app-paths)** - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (1 day ago)
 - **[barthr/redo](https://github.com/barthr/redo)** - Redo is the ultimate tool to create reusable functions from your history in an interactive way (1 day ago)
 - **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (3 days ago)
 - **[phoban01/cue-flux-controller](https://github.com/phoban01/cue-flux-controller)** - A Kubernetes controller for CUE via Flux (3 days ago)
-- **[wincent/wincent](https://github.com/wincent/wincent)** - 💾 Dot-files (6 days ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 months ago)
