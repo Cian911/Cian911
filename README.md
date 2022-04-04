@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[kris-nova/boopkit](https://github.com/kris-nova/boopkit)** - Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  (today)
+- **[kris-nova/boopkit](https://github.com/kris-nova/boopkit)** - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. (today)
 - **[muesli/go-app-paths](https://github.com/muesli/go-app-paths)** - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (1 day ago)
 - **[barthr/redo](https://github.com/barthr/redo)** - Redo is the ultimate tool to create reusable functions from your history in an interactive way (1 day ago)
 - **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (3 days ago)
