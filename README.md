@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0) (6 days ago)
+- [dlvhdr/gh-dash @ v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0) (1 week ago)
 - [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (2 weeks ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (2 months ago)
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (3 months ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[asim/go-micro](https://github.com/asim/go-micro)** - A Go microservices framework (3 days ago)
-- **[kris-nova/boopkit](https://github.com/kris-nova/boopkit)** - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (3 days ago)
-- **[muesli/go-app-paths](https://github.com/muesli/go-app-paths)** - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (4 days ago)
-- **[barthr/redo](https://github.com/barthr/redo)** - Redo is the ultimate tool to create reusable functions from your history in an interactive way (4 days ago)
-- **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (6 days ago)
+- **[asim/go-micro](https://github.com/asim/go-micro)** - A Go microservices framework (4 days ago)
+- **[kris-nova/boopkit](https://github.com/kris-nova/boopkit)** - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (4 days ago)
+- **[muesli/go-app-paths](https://github.com/muesli/go-app-paths)** - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (5 days ago)
+- **[barthr/redo](https://github.com/barthr/redo)** - Redo is the ultimate tool to create reusable functions from your history in an interactive way (5 days ago)
+- **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. (1 week ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 months ago)
