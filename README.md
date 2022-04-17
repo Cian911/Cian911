@@ -15,7 +15,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - [dlvhdr/gh-dash @ v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0) (2 weeks ago)
-- [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (3 weeks ago)
+- [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (4 weeks ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (2 months ago)
 - [k8s-at-home/library-charts @ common-4.3.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.3.0) (3 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (4 months ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (6 days ago)
+- **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (1 week ago)
 - **[asim/go-micro](https://github.com/asim/go-micro)** - A Go microservices framework (1 week ago)
 - **[kris-nova/boopkit](https://github.com/kris-nova/boopkit)** - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (1 week ago)
-- **[muesli/go-app-paths](https://github.com/muesli/go-app-paths)** - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (1 week ago)
-- **[barthr/redo](https://github.com/barthr/redo)** - Redo is the ultimate tool to create reusable functions from your history in an interactive way (1 week ago)
+- **[muesli/go-app-paths](https://github.com/muesli/go-app-paths)** - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (2 weeks ago)
+- **[barthr/redo](https://github.com/barthr/redo)** - Redo is the ultimate tool to create reusable functions from your history in an interactive way (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 months ago)
