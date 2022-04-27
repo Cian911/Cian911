@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (today)
 - **[dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)** - git mirror of upstream bzr at http://launchpad.net/byobu (1 week ago)
 - **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (2 weeks ago)
 - **[asim/go-micro](https://github.com/asim/go-micro)** - A Go microservices framework (3 weeks ago)
 - **[kris-nova/boopkit](https://github.com/kris-nova/boopkit)** - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (3 weeks ago)
-- **[muesli/go-app-paths](https://github.com/muesli/go-app-paths)** - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (3 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 months ago)
