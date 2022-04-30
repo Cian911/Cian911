@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (today)
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 days ago)
+- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (1 day ago)
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (3 days ago)
 - **[dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)** - git mirror of upstream bzr at http://launchpad.net/byobu (1 week ago)
 - **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (2 weeks ago)
 - **[asim/go-micro](https://github.com/asim/go-micro)** - A Go microservices framework (3 weeks ago)
