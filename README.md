@@ -14,8 +14,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [k8s-at-home/library-charts @ common-4.4.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.0) (today)
-- [dlvhdr/gh-dash @ v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0) (4 weeks ago)
+- [k8s-at-home/library-charts @ common-4.4.0](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.0) (1 day ago)
+- [dlvhdr/gh-dash @ v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0) (1 month ago)
 - [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (1 month ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (3 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (5 months ago)
@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (1 day ago)
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (3 days ago)
+- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (2 days ago)
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (4 days ago)
 - **[dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)** - git mirror of upstream bzr at http://launchpad.net/byobu (1 week ago)
-- **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (2 weeks ago)
+- **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (3 weeks ago)
 - **[asim/go-micro](https://github.com/asim/go-micro)** - A Go microservices framework (3 weeks ago)
 
 #### 📄 Latest posts
