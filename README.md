@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [k8s-at-home/library-charts @ common-4.4.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.2) (3 days ago)
+- [k8s-at-home/library-charts @ common-4.4.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.2) (4 days ago)
 - [dlvhdr/gh-dash @ v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0) (1 month ago)
 - [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (1 month ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (3 months ago)
@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (1 week ago)
+- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (2 weeks ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 weeks ago)
 - **[dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)** - git mirror of upstream bzr at http://launchpad.net/byobu (3 weeks ago)
 - **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (1 month ago)
