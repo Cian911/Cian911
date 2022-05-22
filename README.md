@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (today)
 - **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (1 week ago)
 - **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (3 weeks ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (3 weeks ago)
 - **[dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)** - git mirror of upstream bzr at http://launchpad.net/byobu (1 month ago)
-- **[zineland/zine](https://github.com/zineland/zine)** - Zine - a simple and opinionated tool to build your own magazine. (1 month ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (3 months ago)
