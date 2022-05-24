@@ -105,6 +105,8 @@ alias gd='git diff'
 alias gc='git commit'
 alias ga='git add'
 
+alias tmux-reload='tmux source ~/.tmux.conf'
+
 # xclip
 alias xclip='xclip -selection "clipboard" -i '
 
@@ -211,6 +213,7 @@ export PATH=$PATH:$HOME/bin
 export PATH=$PATH:$GOPATH/bin
 export EDITOR=/usr/bin/vim
 
+banner
 neofetch
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash && source /usr/share/bash-completion/bash_completion
