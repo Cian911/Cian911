@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.1.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.0) (1 week ago)
+- [dlvhdr/gh-dash @ v3.1.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.1) (1 day ago)
 - [k8s-at-home/library-charts @ common-4.4.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.2) (2 weeks ago)
 - [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (2 months ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (4 months ago)
@@ -23,13 +23,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (1 day ago)
-- **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (5 days ago)
+- **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (2 days ago)
+- **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (6 days ago)
 - **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (2 weeks ago)
 - **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (4 weeks ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (1 month ago)
 
 #### 📄 Latest posts
-- [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (3 months ago)
+- [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (4 months ago)
 - [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (4 years ago)
 - [Building your own MVC Framework in PHP (Part 3)](https://ciangallagher.me/2013/11/03/Building-your-own-mvc-framework-in-php-part-3/) (8 years ago)
