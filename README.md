@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.1.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.2) (today)
+- [dlvhdr/gh-dash @ v3.1.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.2) (1 day ago)
 - [k8s-at-home/library-charts @ common-4.4.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.2) (2 weeks ago)
 - [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (2 months ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (4 months ago)
@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (2 days ago)
-- **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (6 days ago)
+- **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (3 days ago)
+- **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (1 week ago)
 - **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (2 weeks ago)
-- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (4 weeks ago)
+- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (1 month ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (1 month ago)
 
 #### 📄 Latest posts
