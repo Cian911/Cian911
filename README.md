@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.1.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.2) (5 days ago)
+- [dlvhdr/gh-dash @ v3.1.3](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.3) (today)
 - [k8s-at-home/library-charts @ common-4.4.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.2) (3 weeks ago)
 - [Cian911/gomerge @ 2.2.1](https://github.com/Cian911/gomerge/releases/tag/2.2.1) (2 months ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (4 months ago)
