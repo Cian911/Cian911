@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[FuzzyMistborn/python-eufy-security](https://github.com/FuzzyMistborn/python-eufy-security)** - Python library for Eufy Security cameras (today)
 - **[sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)** - Enable your Go applications to self update (1 week ago)
 - **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (3 weeks ago)
 - **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (3 weeks ago)
 - **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (1 month ago)
-- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (1 month ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (4 months ago)
