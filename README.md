@@ -27,7 +27,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)** - Enable your Go applications to self update (1 month ago)
 - **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (1 month ago)
 - **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (1 month ago)
-- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (1 month ago)
+- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (2 months ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (5 months ago)
