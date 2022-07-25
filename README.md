@@ -14,8 +14,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.2.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.2.0) (2 days ago)
-- [Cian911/gomerge @ 3.0.0](https://github.com/Cian911/gomerge/releases/tag/3.0.0) (3 days ago)
+- [dlvhdr/gh-dash @ v3.2.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.2.0) (3 days ago)
+- [Cian911/gomerge @ 3.0.0](https://github.com/Cian911/gomerge/releases/tag/3.0.0) (4 days ago)
 - [k8s-at-home/library-charts @ common-4.4.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.4.2) (2 months ago)
 - [Cian911/switchboard @ v0.3.0](https://github.com/Cian911/switchboard/releases/tag/v0.3.0) (6 months ago)
 - [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (8 months ago)
@@ -25,7 +25,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - **[FuzzyMistborn/python-eufy-security](https://github.com/FuzzyMistborn/python-eufy-security)** - Python library for Eufy Security cameras (1 month ago)
 - **[sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)** - Enable your Go applications to self update (1 month ago)
-- **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (1 month ago)
+- **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (2 months ago)
 - **[denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid)** - Get the unique machine id of any host (without admin privileges) (2 months ago)
 - **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (2 months ago)
 
