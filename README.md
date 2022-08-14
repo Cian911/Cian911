@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[norvig/paip-lisp](https://github.com/norvig/paip-lisp)** - Lisp code for the textbook &#34;Paradigms of Artificial Intelligence Programming&#34; (today)
 - **[gen2brain/go-unarr](https://github.com/gen2brain/go-unarr)** - Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives) (2 weeks ago)
 - **[artdarek/go-unzip](https://github.com/artdarek/go-unzip)** - Simple GOLang unzip package (2 weeks ago)
 - **[FuzzyMistborn/python-eufy-security](https://github.com/FuzzyMistborn/python-eufy-security)** - Python library for Eufy Security cameras (1 month ago)
 - **[sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)** - Enable your Go applications to self update (2 months ago)
-- **[tchiotludo/akhq](https://github.com/tchiotludo/akhq)** - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (2 months ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (6 months ago)
