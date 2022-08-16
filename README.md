@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (1 week ago)
+- [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (2 weeks ago)
 - [dlvhdr/gh-dash @ v3.2.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.2.0) (3 weeks ago)
 - [Cian911/gomerge @ 3.0.0](https://github.com/Cian911/gomerge/releases/tag/3.0.0) (3 weeks ago)
 - [gen2brain/go-unarr @ v0.1.4](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.4) (1 month ago)
@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[norvig/paip-lisp](https://github.com/norvig/paip-lisp)** - Lisp code for the textbook &#34;Paradigms of Artificial Intelligence Programming&#34; (1 day ago)
+- **[norvig/paip-lisp](https://github.com/norvig/paip-lisp)** - Lisp code for the textbook &#34;Paradigms of Artificial Intelligence Programming&#34; (2 days ago)
 - **[gen2brain/go-unarr](https://github.com/gen2brain/go-unarr)** - Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives) (3 weeks ago)
 - **[artdarek/go-unzip](https://github.com/artdarek/go-unzip)** - Simple GOLang unzip package (3 weeks ago)
-- **[FuzzyMistborn/python-eufy-security](https://github.com/FuzzyMistborn/python-eufy-security)** - Python library for Eufy Security cameras (1 month ago)
+- **[FuzzyMistborn/python-eufy-security](https://github.com/FuzzyMistborn/python-eufy-security)** - Python library for Eufy Security cameras (2 months ago)
 - **[sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)** - Enable your Go applications to self update (2 months ago)
 
 #### 📄 Latest posts
