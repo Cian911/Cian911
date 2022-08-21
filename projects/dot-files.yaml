@@ -1,0 +1,14 @@
+session_name: dotfiles
+windows:
+  - window_name: dotfiles-IDE
+    layout: main-horizontal
+    options:
+      main-pane-height: 300
+    shell_command_before:
+      - cd ~/code/Cian911
+    panes:
+      - shell_command:
+        - vi
+        focus: true
+      - gs
+

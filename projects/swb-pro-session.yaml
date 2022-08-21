@@ -1,0 +1,14 @@
+session_name: swb-pro
+windows:
+  - window_name: dev window
+    layout: main-horizontal
+    options:
+      main-pane-height: 300
+    shell_command_before:
+      - cd ~/code/switchboard-pro
+    panes:
+      - shell_command:
+        - vi
+        focus: true
+      - gs
+      - gs
