@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (2 weeks ago)
+- [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (3 weeks ago)
 - [dlvhdr/gh-dash @ v3.2.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.2.0) (1 month ago)
 - [Cian911/gomerge @ 3.0.0](https://github.com/Cian911/gomerge/releases/tag/3.0.0) (1 month ago)
 - [gen2brain/go-unarr @ v0.1.4](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.4) (2 months ago)
