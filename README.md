@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/vim](https://github.com/catppuccin/vim)** - 🧋 Soothing pastel theme for Vim  (today)
 - **[goreleaser/goreleaser-cross-example](https://github.com/goreleaser/goreleaser-cross-example)** (1 week ago)
 - **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (2 weeks ago)
 - **[songrgg/namespace-demo](https://github.com/songrgg/namespace-demo)** - Golang experiments about how Linux namespace works. (3 weeks ago)
 - **[norvig/paip-lisp](https://github.com/norvig/paip-lisp)** - Lisp code for the textbook &#34;Paradigms of Artificial Intelligence Programming&#34; (1 month ago)
-- **[gen2brain/go-unarr](https://github.com/gen2brain/go-unarr)** - Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives) (1 month ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (7 months ago)
