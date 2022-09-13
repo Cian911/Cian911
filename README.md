@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0) (2 days ago)
+- [dlvhdr/gh-dash @ v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0) (3 days ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 week ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (1 week ago)
 - [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (1 month ago)
@@ -24,9 +24,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - **[goreleaser/goreleaser-cross-example](https://github.com/goreleaser/goreleaser-cross-example)** (1 week ago)
-- **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (1 week ago)
-- **[songrgg/namespace-demo](https://github.com/songrgg/namespace-demo)** - Golang experiments about how Linux namespace works. (2 weeks ago)
-- **[norvig/paip-lisp](https://github.com/norvig/paip-lisp)** - Lisp code for the textbook &#34;Paradigms of Artificial Intelligence Programming&#34; (4 weeks ago)
+- **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (2 weeks ago)
+- **[songrgg/namespace-demo](https://github.com/songrgg/namespace-demo)** - Golang experiments about how Linux namespace works. (3 weeks ago)
+- **[norvig/paip-lisp](https://github.com/norvig/paip-lisp)** - Lisp code for the textbook &#34;Paradigms of Artificial Intelligence Programming&#34; (1 month ago)
 - **[gen2brain/go-unarr](https://github.com/gen2brain/go-unarr)** - Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives) (1 month ago)
 
 #### 📄 Latest posts
