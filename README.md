@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[schollz/find](https://github.com/schollz/find)** - High-precision indoor positioning framework for most wifi-enabled devices. (today)
 - **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (4 days ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (4 days ago)
 - **[catppuccin/vim](https://github.com/catppuccin/vim)** - 🧋 Soothing pastel theme for Vim  (4 days ago)
 - **[goreleaser/goreleaser-cross-example](https://github.com/goreleaser/goreleaser-cross-example)** (2 weeks ago)
-- **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (7 months ago)
