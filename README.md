@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0) (6 days ago)
+- [dlvhdr/gh-dash @ v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0) (1 week ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 weeks ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (2 weeks ago)
 - [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (1 month ago)
@@ -23,13 +23,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (3 days ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (3 days ago)
-- **[catppuccin/vim](https://github.com/catppuccin/vim)** - 🧋 Soothing pastel theme for Vim  (3 days ago)
+- **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (4 days ago)
+- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (4 days ago)
+- **[catppuccin/vim](https://github.com/catppuccin/vim)** - 🧋 Soothing pastel theme for Vim  (4 days ago)
 - **[goreleaser/goreleaser-cross-example](https://github.com/goreleaser/goreleaser-cross-example)** (2 weeks ago)
 - **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (7 months ago)
 - [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (4 years ago)
-- [Building your own MVC Framework in PHP (Part 3)](https://ciangallagher.me/2013/11/03/Building-your-own-mvc-framework-in-php-part-3/) (8 years ago)
+- [Building your own MVC Framework in PHP (Part 3)](https://ciangallagher.me/2013/11/03/Building-your-own-mvc-framework-in-php-part-3/) (9 years ago)
