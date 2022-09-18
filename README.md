@@ -33,3 +33,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (7 months ago)
 - [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (4 years ago)
 - [Building your own MVC Framework in PHP (Part 3)](https://ciangallagher.me/2013/11/03/Building-your-own-mvc-framework-in-php-part-3/) (9 years ago)
+
+#### 💬 Feedback
+
+If you use any of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
+and what needs being improved. I will try my best to help!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/Cian911
+- Blog: https://ciangallagher.me/contact
