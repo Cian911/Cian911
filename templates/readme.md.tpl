@@ -35,5 +35,5 @@ and what needs being improved. I will try my best to help!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/Cian911
+- Twitter: https://twitter.com/Cian_911
 - Blog: https://ciangallagher.me/contact
