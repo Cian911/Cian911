@@ -27,3 +27,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 {{- range rss "https://ciangallagher.me/feed.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
+
+#### 💬 Feedback
+
+If you use any of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
+and what needs being improved. I will try my best to help!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/Cian911
+- Blog: https://ciangallagher.me/contact
