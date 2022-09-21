@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (today)
-- **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (today)
-- **[schollz/find](https://github.com/schollz/find)** - High-precision indoor positioning framework for most wifi-enabled devices. (3 days ago)
+- **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (1 day ago)
+- **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (1 day ago)
+- **[schollz/find](https://github.com/schollz/find)** - High-precision indoor positioning framework for most wifi-enabled devices. (4 days ago)
 - **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (1 week ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (1 week ago)
 
