@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (6 days ago)
-- **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (6 days ago)
+- **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (1 week ago)
+- **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (1 week ago)
 - **[schollz/find](https://github.com/schollz/find)** - High-precision indoor positioning framework for most wifi-enabled devices. (1 week ago)
-- **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (1 week ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (1 week ago)
+- **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (2 weeks ago)
+- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (8 months ago)
