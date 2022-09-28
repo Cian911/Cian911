@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.0) (today)
+- [dlvhdr/gh-dash @ v3.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.0) (1 day ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (3 weeks ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (3 weeks ago)
 - [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (1 month ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[t-mart/kill-sticky](https://github.com/t-mart/kill-sticky)** - Bookmarklet to remove sticky elements and restore scrolling to web pages! (1 day ago)
 - **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (1 week ago)
 - **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (1 week ago)
 - **[schollz/find](https://github.com/schollz/find)** - High-precision indoor positioning framework for most wifi-enabled devices. (1 week ago)
 - **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (2 weeks ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (8 months ago)
