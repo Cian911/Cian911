@@ -5,16 +5,16 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
 - **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
 - **[Cian911/homebrew-switchboard](https://github.com/Cian911/homebrew-switchboard)**
 - **[Cian911/switchboard](https://github.com/Cian911/switchboard)** - Auto-magic file organisation for your machines. :open_file_folder:
 - **[Cian911/gomerge-action](https://github.com/Cian911/gomerge-action)** - Github action utilising the Gomerge CLI tool to bulk merge and approve pull requests. 
-- **[Cian911/copycat](https://github.com/Cian911/copycat)**
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.0) (1 day ago)
+- [dlvhdr/gh-dash @ v3.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.0) (2 days ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (3 weeks ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (3 weeks ago)
 - [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (1 month ago)
@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[t-mart/kill-sticky](https://github.com/t-mart/kill-sticky)** - Bookmarklet to remove sticky elements and restore scrolling to web pages! (1 day ago)
+- **[t-mart/kill-sticky](https://github.com/t-mart/kill-sticky)** - Bookmarklet to remove sticky elements and restore scrolling to web pages! (2 days ago)
 - **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (1 week ago)
 - **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (1 week ago)
 - **[schollz/find](https://github.com/schollz/find)** - High-precision indoor positioning framework for most wifi-enabled devices. (1 week ago)
