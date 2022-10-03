@@ -8,7 +8,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
 - **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
 - **[Cian911/homebrew-switchboard](https://github.com/Cian911/homebrew-switchboard)**
-- **[Cian911/switchboard](https://github.com/Cian911/switchboard)** - Auto-magic file organisation for your machines. :open_file_folder:
+- **[Cian911/switchboard](https://github.com/Cian911/switchboard)** - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - **[Cian911/gomerge-action](https://github.com/Cian911/gomerge-action)** - Github action utilising the Gomerge CLI tool to bulk merge and approve pull requests. 
 
 #### 🚀 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend. (today)
 - **[t-mart/kill-sticky](https://github.com/t-mart/kill-sticky)** - Bookmarklet to remove sticky elements and restore scrolling to web pages! (6 days ago)
 - **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (1 week ago)
 - **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (1 week ago)
 - **[schollz/find](https://github.com/schollz/find)** - High-precision indoor positioning framework for most wifi-enabled devices. (2 weeks ago)
-- **[itchyny/bed](https://github.com/itchyny/bed)** - Binary editor written in Go (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (8 months ago)
