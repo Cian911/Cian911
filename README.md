@@ -14,8 +14,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (2 days ago)
-- [dlvhdr/gh-dash @ v3.4.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.1) (4 days ago)
+- [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (3 days ago)
+- [dlvhdr/gh-dash @ v3.4.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.1) (5 days ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 month ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (1 month ago)
 - [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (2 months ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[nore-dev/fman](https://github.com/nore-dev/fman)** - TUI File Manager (1 day ago)
-- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend. (1 day ago)
+- **[nore-dev/fman](https://github.com/nore-dev/fman)** - TUI File Manager (2 days ago)
+- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend. (2 days ago)
 - **[t-mart/kill-sticky](https://github.com/t-mart/kill-sticky)** - Bookmarklet to remove sticky elements and restore scrolling to web pages! (1 week ago)
 - **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (2 weeks ago)
 - **[sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter)** - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development (2 weeks ago)
