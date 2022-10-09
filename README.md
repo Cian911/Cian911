@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[folke/noice.nvim](https://github.com/folke/noice.nvim)** - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (today)
 - **[apache/incubator-pegasus](https://github.com/apache/incubator-pegasus)** - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (2 days ago)
 - **[nore-dev/fman](https://github.com/nore-dev/fman)** - TUI File Manager (6 days ago)
 - **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend. (6 days ago)
 - **[t-mart/kill-sticky](https://github.com/t-mart/kill-sticky)** - Bookmarklet to remove sticky elements and restore scrolling to web pages! (1 week ago)
-- **[therecipe/qt](https://github.com/therecipe/qt)** - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (8 months ago)
