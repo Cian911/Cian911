@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2) (5 days ago)
+- [dlvhdr/gh-dash @ v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2) (6 days ago)
 - [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (1 week ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 month ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (1 month ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (5 days ago)
-- **[folke/noice.nvim](https://github.com/folke/noice.nvim)** - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (5 days ago)
+- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (6 days ago)
+- **[folke/noice.nvim](https://github.com/folke/noice.nvim)** - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (6 days ago)
 - **[apache/incubator-pegasus](https://github.com/apache/incubator-pegasus)** - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (1 week ago)
 - **[nore-dev/fman](https://github.com/nore-dev/fman)** - TUI File Manager (1 week ago)
 - **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend. (1 week ago)
