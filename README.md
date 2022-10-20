@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)** - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors. (4 days ago)
+- **[geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)** - Raspberry Pi config for all things Internet. (1 day ago)
+- **[fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)** - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors. (5 days ago)
 - **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (1 week ago)
 - **[folke/noice.nvim](https://github.com/folke/noice.nvim)** - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (1 week ago)
 - **[apache/incubator-pegasus](https://github.com/apache/incubator-pegasus)** - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (1 week ago)
-- **[nore-dev/fman](https://github.com/nore-dev/fman)** - TUI File Manager (2 weeks ago)
 
 #### 📄 Latest posts
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (8 months ago)
