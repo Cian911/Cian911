@@ -1,3 +1,4 @@
+
 " Don't try to be vi compatible
 set nocompatible
 
@@ -157,6 +158,7 @@ Plug 'rhysd/vim-grammarous'
 
 " Themes
 Plug 'https://github.com/joshdick/onedark.vim.git'
+Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 
 " Language Sever/s
 Plug 'scalameta/coc-metals', {'do': 'yarn install --frozen-lockfile'}
@@ -178,9 +180,14 @@ Plug 'vim-airline/vim-airline'
 " Markdown Previeww
 Plug 'ellisonleao/glow.nvim'
 
+" Motions
+Plug 'justinmk/vim-sneak'
+
 call plug#end()
 
 " vim-go Config
+" Enable vim-sneak
+let g:sneak#label = 1
 
 " This enabled with coc breaks auto suggestions
 " let g:go_fmt_command = "goimports"
@@ -195,14 +202,24 @@ let g:go_auto_type_info = 1
 let g:go_metalinter_enabled = ['vet', 'golint', 'errcheck']
 " let g:go_metalinter_autosave = 0
 
-" Glow Settings (Markdown Render)
+" Glow ettings (Markdown Render)
 let g:glow_border = "rounded"
 let g:glow_style = "dark"
 nnoremap <C-m> :Glow<CR>
 
+" Custom remap for ank & replace
+nnoremap <C-j> cw<C-r>0<ESC>
+
 " colorscheme onedark
 let g:airline_theme='onedark'
 command! -bang CodeFiles call fzf#vim#files('~/code', <bang>0)
+
+lua << EOF
+require("catppuccin").setup {
+	flavour = "frappe" -- mocha, macchiato, frappe, latte
+}
+EOF
+colorscheme catppuccin
 
 " Cians custom remappings
 nnoremap <C-p> :Files<CR>
@@ -411,4 +428,5 @@ nnoremap <silent><nowait> <space>j  :<C-u>CocNext<CR>
 " Do default action for previous item.
 nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list.
-nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
+nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>S
+
