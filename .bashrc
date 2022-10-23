@@ -110,6 +110,9 @@ alias tmux-reload='tmux source ~/.tmux.conf'
 # xclip
 alias xclip='xclip -selection "clipboard" -i '
 
+# Make cat -> bat
+alias cat='bat'
+
 # Kubernetes Aliases & Handy Functions
 
 # Switch current context 
