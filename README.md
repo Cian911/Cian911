@@ -23,16 +23,16 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)** - Raspberry Pi config for all things Internet. (4 days ago)
+- **[geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)** - Raspberry Pi config for all things Internet. (5 days ago)
 - **[fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)** - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors. (1 week ago)
 - **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (2 weeks ago)
 - **[folke/noice.nvim](https://github.com/folke/noice.nvim)** - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (2 weeks ago)
 - **[apache/incubator-pegasus](https://github.com/apache/incubator-pegasus)** - Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store (2 weeks ago)
 
 #### 📄 Latest posts
+- [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 month ago)
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (8 months ago)
 - [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (4 years ago)
-- [Building your own MVC Framework in PHP (Part 3)](https://ciangallagher.me/2013/11/03/Building-your-own-mvc-framework-in-php-part-3/) (9 years ago)
 
 #### 💬 Feedback
 
