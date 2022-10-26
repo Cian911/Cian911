@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[benthosdev/benthos](https://github.com/benthosdev/benthos)** - Fancy stream processing made operationally mundane (1 day ago)
-- **[geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)** - Raspberry Pi config for all things Internet. (6 days ago)
+- **[benthosdev/benthos](https://github.com/benthosdev/benthos)** - Fancy stream processing made operationally mundane (2 days ago)
+- **[geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)** - Raspberry Pi config for all things Internet. (1 week ago)
 - **[fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)** - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors. (1 week ago)
 - **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (2 weeks ago)
 - **[folke/noice.nvim](https://github.com/folke/noice.nvim)** - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (2 weeks ago)
