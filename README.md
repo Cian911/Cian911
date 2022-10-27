@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[unfiltered/unfiltered.g8](https://github.com/unfiltered/unfiltered.g8)** - template for unfiltered app (today)
+- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (today)
 - **[tillrohrmann/flink-project.g8](https://github.com/tillrohrmann/flink-project.g8)** - Giter8 template to create a simple flink project (today)
 - **[benthosdev/benthos](https://github.com/benthosdev/benthos)** - Fancy stream processing made operationally mundane (3 days ago)
 - **[geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)** - Raspberry Pi config for all things Internet. (1 week ago)
-- **[fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)** - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors. (1 week ago)
-- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (2 weeks ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 month ago)
