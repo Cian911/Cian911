@@ -15,19 +15,19 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - [dlvhdr/gh-dash @ v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2) (3 weeks ago)
-- [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (4 weeks ago)
-- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 month ago)
-- [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (1 month ago)
+- [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (1 month ago)
+- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 months ago)
+- [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (2 months ago)
 - [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (3 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (today)
-- **[vetinari/ee895-exporter](https://github.com/vetinari/ee895-exporter)** - A simple prometheus exporter for the EE895-M16HV2 CO2 sensor (1 day ago)
-- **[unfiltered/unfiltered.g8](https://github.com/unfiltered/unfiltered.g8)** - template for unfiltered app (4 days ago)
-- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (4 days ago)
-- **[tillrohrmann/flink-project.g8](https://github.com/tillrohrmann/flink-project.g8)** - Giter8 template to create a simple flink project (4 days ago)
+- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (1 day ago)
+- **[vetinari/ee895-exporter](https://github.com/vetinari/ee895-exporter)** - A simple prometheus exporter for the EE895-M16HV2 CO2 sensor (2 days ago)
+- **[unfiltered/unfiltered.g8](https://github.com/unfiltered/unfiltered.g8)** - template for unfiltered app (5 days ago)
+- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (5 days ago)
+- **[tillrohrmann/flink-project.g8](https://github.com/tillrohrmann/flink-project.g8)** - Giter8 template to create a simple flink project (5 days ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 month ago)
