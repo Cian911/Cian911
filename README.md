@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2) (3 weeks ago)
+- [dlvhdr/gh-dash @ v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2) (4 weeks ago)
 - [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (2 months ago)
@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client)** - Tiny BitTorrent client written in Go (3 days ago)
-- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (5 days ago)
-- **[vetinari/ee895-exporter](https://github.com/vetinari/ee895-exporter)** - A simple prometheus exporter for the EE895-M16HV2 CO2 sensor (6 days ago)
+- **[veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client)** - Tiny BitTorrent client written in Go (4 days ago)
+- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (6 days ago)
+- **[vetinari/ee895-exporter](https://github.com/vetinari/ee895-exporter)** - A simple prometheus exporter for the EE895-M16HV2 CO2 sensor (1 week ago)
 - **[unfiltered/unfiltered.g8](https://github.com/unfiltered/unfiltered.g8)** - template for unfiltered app (1 week ago)
 - **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (1 week ago)
 
