@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[uselotus/lotus](https://github.com/uselotus/lotus)** - Open Source Pricing &amp; Packaging Infrastructure for SaaS (1 day ago)
-- **[veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client)** - Tiny BitTorrent client written in Go (6 days ago)
+- **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (1 day ago)
+- **[uselotus/lotus](https://github.com/uselotus/lotus)** - Open Source Pricing &amp; Packaging Infrastructure for SaaS (2 days ago)
+- **[veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client)** - Tiny BitTorrent client written in Go (1 week ago)
 - **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (1 week ago)
 - **[vetinari/ee895-exporter](https://github.com/vetinari/ee895-exporter)** - A simple prometheus exporter for the EE895-M16HV2 CO2 sensor (1 week ago)
-- **[unfiltered/unfiltered.g8](https://github.com/unfiltered/unfiltered.g8)** - template for unfiltered app (1 week ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 month ago)
