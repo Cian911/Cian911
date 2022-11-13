@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (1 day ago)
-- **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (4 days ago)
-- **[uselotus/lotus](https://github.com/uselotus/lotus)** - Open Source Pricing &amp; Packaging Infrastructure for SaaS (5 days ago)
+- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (2 days ago)
+- **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (5 days ago)
+- **[uselotus/lotus](https://github.com/uselotus/lotus)** - Open Source Pricing &amp; Packaging Infrastructure for SaaS (6 days ago)
 - **[veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client)** - Tiny BitTorrent client written in Go (1 week ago)
 - **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (1 week ago)
 
