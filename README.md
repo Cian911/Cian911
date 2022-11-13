@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
 - **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
 - **[Cian911/homebrew-switchboard](https://github.com/Cian911/homebrew-switchboard)**
 - **[Cian911/switchboard](https://github.com/Cian911/switchboard)** - Auto-magic file organisation and routing for all your machines. :open_file_folder:
-- **[Cian911/gomerge-action](https://github.com/Cian911/gomerge-action)** - Github action utilising the Gomerge CLI tool to bulk merge and approve pull requests. 
 
 #### 🚀 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (today)
 - **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (2 days ago)
 - **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (5 days ago)
 - **[uselotus/lotus](https://github.com/uselotus/lotus)** - Open Source Pricing &amp; Packaging Infrastructure for SaaS (6 days ago)
 - **[veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client)** - Tiny BitTorrent client written in Go (1 week ago)
-- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (1 week ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 month ago)
