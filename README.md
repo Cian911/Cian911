@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (today)
-- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (2 days ago)
-- **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (5 days ago)
-- **[uselotus/lotus](https://github.com/uselotus/lotus)** - Open Source Pricing &amp; Packaging Infrastructure for SaaS (6 days ago)
-- **[veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client)** - Tiny BitTorrent client written in Go (1 week ago)
+- **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (today)
+- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (1 day ago)
+- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (3 days ago)
+- **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (6 days ago)
+- **[uselotus/lotus](https://github.com/uselotus/lotus)** - Open Source Pricing &amp; Packaging Infrastructure for SaaS (1 week ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 month ago)
