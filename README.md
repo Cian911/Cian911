@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (1 day ago)
+- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (2 days ago)
 - [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (2 months ago)
@@ -23,14 +23,14 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (today)
-- **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (1 day ago)
-- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (2 days ago)
-- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (4 days ago)
+- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (1 day ago)
+- **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (2 days ago)
+- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (3 days ago)
+- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (5 days ago)
 - **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (1 week ago)
 
 #### 📄 Latest posts
-- [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 month ago)
+- [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (2 months ago)
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (9 months ago)
 - [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (4 years ago)
 
