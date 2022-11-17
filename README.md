@@ -14,19 +14,19 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (2 days ago)
+- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (3 days ago)
 - [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (2 months ago)
-- [k8s-at-home/library-charts @ common-4.5.2](https://github.com/k8s-at-home/library-charts/releases/tag/common-4.5.2) (3 months ago)
+- [Cian911/gomerge-action @ 1.0.0](https://github.com/Cian911/gomerge-action/releases/tag/1.0.0) (11 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (1 day ago)
-- **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (2 days ago)
-- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (3 days ago)
-- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (5 days ago)
+- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (2 days ago)
+- **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (3 days ago)
+- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (4 days ago)
+- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (6 days ago)
 - **[tomnomnom/gron](https://github.com/tomnomnom/gron)** - Make JSON greppable! (1 week ago)
 
 #### 📄 Latest posts
