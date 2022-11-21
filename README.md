@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (today)
 - **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (today)
 - **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (6 days ago)
 - **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (1 week ago)
 - **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (1 week ago)
-- **[pi3g/ee895-python-example](https://github.com/pi3g/ee895-python-example)** - Python example for the EE895 sensor (1 week ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (2 months ago)
