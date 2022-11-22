@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/flink-home](https://github.com/Cian911/flink-home)**
 - **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
 - **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
 - **[Cian911/homebrew-switchboard](https://github.com/Cian911/homebrew-switchboard)**
-- **[Cian911/switchboard](https://github.com/Cian911/switchboard)** - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 
 #### 🚀 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[diogoaurelio/flink-playground](https://github.com/diogoaurelio/flink-playground)** - Basic samples using Apache Flink (today)
 - **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (1 day ago)
 - **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (1 day ago)
 - **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (1 week ago)
 - **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (1 week ago)
-- **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (1 week ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (2 months ago)
