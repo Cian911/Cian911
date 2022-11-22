@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (today)
-- **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (today)
-- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (6 days ago)
+- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (1 day ago)
+- **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (1 day ago)
+- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (1 week ago)
 - **[Jeadie/gram](https://github.com/Jeadie/gram)** - A text editor with miminal dependency based on antirez/kilo (1 week ago)
 - **[SeaDve/Kooha](https://github.com/SeaDve/Kooha)** - Elegantly record your screen (1 week ago)
 
