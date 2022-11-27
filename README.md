@@ -26,7 +26,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[Cian911/pico-co2-monitor](https://github.com/Cian911/pico-co2-monitor)** (3 days ago)
 - **[Cian911/flink-home](https://github.com/Cian911/flink-home)** (3 days ago)
 - **[diogoaurelio/flink-playground](https://github.com/diogoaurelio/flink-playground)** - Basic samples using Apache Flink (5 days ago)
-- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (6 days ago)
+- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal (6 days ago)
 - **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (6 days ago)
 
 #### 📄 Latest posts
