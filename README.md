@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (1 week ago)
+- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (2 weeks ago)
 - [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (2 months ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Cian911/pico-co2-monitor](https://github.com/Cian911/pico-co2-monitor)** (3 days ago)
-- **[Cian911/flink-home](https://github.com/Cian911/flink-home)** (3 days ago)
-- **[diogoaurelio/flink-playground](https://github.com/diogoaurelio/flink-playground)** - Basic samples using Apache Flink (5 days ago)
-- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal (6 days ago)
-- **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (6 days ago)
+- **[Cian911/pico-co2-monitor](https://github.com/Cian911/pico-co2-monitor)** (4 days ago)
+- **[Cian911/flink-home](https://github.com/Cian911/flink-home)** (4 days ago)
+- **[diogoaurelio/flink-playground](https://github.com/diogoaurelio/flink-playground)** - Basic samples using Apache Flink (6 days ago)
+- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal (1 week ago)
+- **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (1 week ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (2 months ago)
