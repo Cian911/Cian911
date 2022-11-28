@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (today)
 - **[Cian911/pico-co2-monitor](https://github.com/Cian911/pico-co2-monitor)** (4 days ago)
 - **[Cian911/flink-home](https://github.com/Cian911/flink-home)** (4 days ago)
 - **[diogoaurelio/flink-playground](https://github.com/diogoaurelio/flink-playground)** - Basic samples using Apache Flink (6 days ago)
 - **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal (1 week ago)
-- **[georgerobotics/cyw43-driver](https://github.com/georgerobotics/cyw43-driver)** (1 week ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (2 months ago)
