@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (3 weeks ago)
+- [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (4 weeks ago)
 - [Cian911/gomerge @ 3.1.0](https://github.com/Cian911/gomerge/releases/tag/3.1.0) (2 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (3 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (3 months ago)
@@ -24,7 +24,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
-- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 week ago)
+- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (2 weeks ago)
 - **[Cian911/pico-co2-monitor](https://github.com/Cian911/pico-co2-monitor)** (2 weeks ago)
 - **[Cian911/flink-home](https://github.com/Cian911/flink-home)** (2 weeks ago)
 - **[diogoaurelio/flink-playground](https://github.com/diogoaurelio/flink-playground)** - Basic samples using Apache Flink (2 weeks ago)
