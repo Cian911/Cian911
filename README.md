@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (2 days ago)
+- [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (3 days ago)
 - [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (3 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (3 months ago)
@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (2 days ago)
-- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms (3 days ago)
-- **[siduck/chadwm](https://github.com/siduck/chadwm)** - Making dwm as beautiful as possible!  (3 days ago)
+- **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (3 days ago)
+- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms (4 days ago)
+- **[siduck/chadwm](https://github.com/siduck/chadwm)** - Making dwm as beautiful as possible!  (4 days ago)
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (3 weeks ago)
 - **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (3 weeks ago)
 
