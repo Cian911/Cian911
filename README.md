@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (1 day ago)
+- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (2 days ago)
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (1 week ago)
 - **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (1 week ago)
 - **[siduck/chadwm](https://github.com/siduck/chadwm)** - Making dwm as beautiful as possible!  (1 week ago)
