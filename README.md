@@ -5,7 +5,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
-- **[Cian911/flink-home](https://github.com/Cian911/flink-home)**
+- **[Cian911/flink-home](https://github.com/Cian911/flink-home)** - Flink home is a scala streaming application run on my at home raspberry-pi cluster. The aim of flink home is to ingest data from various CO2 sensor nodes in my home (powered via the Pi Pico W), aggregate it, and sink it to InfluxDB which can be used as a source in grafana.
 - **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
 - **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
@@ -16,15 +16,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (1 week ago)
 - [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (1 month ago)
-- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (3 months ago)
-- [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (3 months ago)
+- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (4 months ago)
+- [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (4 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (1 year ago)
 
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (today)
-- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (2 days ago)
+- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (1 day ago)
+- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (3 days ago)
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (1 week ago)
 - **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (1 week ago)
 - **[siduck/chadwm](https://github.com/siduck/chadwm)** - Making dwm as beautiful as possible!  (1 week ago)
