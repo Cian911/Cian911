@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (today)
-- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (1 day ago)
-- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (3 days ago)
+- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (1 day ago)
+- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (2 days ago)
+- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (4 days ago)
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (1 week ago)
 - **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (1 week ago)
 
