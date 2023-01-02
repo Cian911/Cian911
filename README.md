@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (1 day ago)
-- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (2 days ago)
-- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (4 days ago)
+- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (2 days ago)
+- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (3 days ago)
+- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (5 days ago)
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (1 week ago)
-- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (1 week ago)
+- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (2 weeks ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (3 months ago)
