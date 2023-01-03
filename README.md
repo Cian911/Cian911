@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (1 week ago)
+- [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (2 weeks ago)
 - [dlvhdr/gh-dash @ v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (4 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (4 months ago)
@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (2 days ago)
-- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (3 days ago)
-- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (5 days ago)
-- **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (1 week ago)
+- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (3 days ago)
+- **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (4 days ago)
+- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (6 days ago)
+- **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (2 weeks ago)
 - **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (2 weeks ago)
 
 #### 📄 Latest posts
