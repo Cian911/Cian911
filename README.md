@@ -27,7 +27,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (1 week ago)
 - **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (1 week ago)
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (2 weeks ago)
-- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (2 weeks ago)
+- **[NvChad/NvChad](https://github.com/NvChad/NvChad)** - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (3 weeks ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (3 months ago)
