@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)** - A tool that help automate deployment to an Apache Flink cluster (today)
+- **[ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)** - A tool that help automate deployment to an Apache Flink cluster (1 day ago)
 - **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (1 week ago)
 - **[catppuccin/dark-reader](https://github.com/catppuccin/dark-reader)** - ✴️ Soothing pastel theme for Dark Reader (1 week ago)
-- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (1 week ago)
+- **[NvChad/example_config](https://github.com/NvChad/example_config)** - example custom config  (2 weeks ago)
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** - A spotify daemon (3 weeks ago)
 
 #### 📄 Latest posts
