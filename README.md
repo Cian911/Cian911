@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0) (1 day ago)
+- [dlvhdr/gh-dash @ v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0) (2 days ago)
 - [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (3 weeks ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (4 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (4 months ago)
@@ -23,14 +23,14 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (today)
-- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (today)
-- **[catppuccin/kde](https://github.com/catppuccin/kde)** - 🌻 Soothing pastel theme for KDE (3 days ago)
-- **[ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)** - A tool that help automate deployment to an Apache Flink cluster (4 days ago)
+- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (1 day ago)
+- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (1 day ago)
+- **[catppuccin/kde](https://github.com/catppuccin/kde)** - 🌻 Soothing pastel theme for KDE (4 days ago)
+- **[ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)** - A tool that help automate deployment to an Apache Flink cluster (5 days ago)
 - **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (2 weeks ago)
 
 #### 📄 Latest posts
-- [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (3 months ago)
+- [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (4 months ago)
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (11 months ago)
 - [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (4 years ago)
 
