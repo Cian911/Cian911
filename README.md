@@ -14,8 +14,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0) (5 days ago)
-- [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (4 weeks ago)
+- [dlvhdr/gh-dash @ v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0) (6 days ago)
+- [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (4 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (4 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (1 year ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (4 days ago)
-- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (4 days ago)
+- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (5 days ago)
+- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (5 days ago)
 - **[catppuccin/kde](https://github.com/catppuccin/kde)** - 🌻 Soothing pastel theme for KDE (1 week ago)
 - **[ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)** - A tool that help automate deployment to an Apache Flink cluster (1 week ago)
 - **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (2 weeks ago)
