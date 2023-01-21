@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (6 days ago)
-- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (6 days ago)
+- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (1 week ago)
+- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (1 week ago)
 - **[catppuccin/kde](https://github.com/catppuccin/kde)** - 🌻 Soothing pastel theme for KDE (1 week ago)
 - **[ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)** - A tool that help automate deployment to an Apache Flink cluster (1 week ago)
-- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (2 weeks ago)
+- **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (3 weeks ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (4 months ago)
