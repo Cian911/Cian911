@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/blauberg-vento](https://github.com/Cian911/blauberg-vento)**
 - **[Cian911/flink-home](https://github.com/Cian911/flink-home)** - Flink home is a scala streaming application run on my at home raspberry-pi cluster. The aim of flink home is to ingest data from various CO2 sensor nodes in my home (powered via the Pi Pico W), aggregate it, and sink it to InfluxDB which can be used as a source in grafana.
 - **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
 - **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
-- **[Cian911/homebrew-switchboard](https://github.com/Cian911/homebrew-switchboard)**
 
 #### 🚀 Latest releases I've contributed to
 
