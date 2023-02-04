@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (2 weeks ago)
-- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (2 weeks ago)
+- **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (3 weeks ago)
+- **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (3 weeks ago)
 - **[catppuccin/kde](https://github.com/catppuccin/kde)** - 🌻 Soothing pastel theme for KDE (3 weeks ago)
 - **[ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)** - A tool that help automate deployment to an Apache Flink cluster (3 weeks ago)
 - **[marsupialtail/quokka](https://github.com/marsupialtail/quokka)** - Open source SQL engine in Python (1 month ago)
