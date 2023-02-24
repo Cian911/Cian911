@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (today)
 - **[StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)** - Home Assistant component for Solarman collectors used with a variety of inverters.   (2 weeks ago)
 - **[teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes)** - 📖 100 Go Mistakes and How to Avoid Them (2 weeks ago)
 - **[gody01/ecovent_v2](https://github.com/gody01/ecovent_v2)** - Home Assistant Integration for EcoVent VENTO Expert A50/80/100 Fans (1 month ago)
 - **[49jan/hass-ecovent](https://github.com/49jan/hass-ecovent)** - Custom component for Home Asistant. (1 month ago)
-- **[catppuccin/kde](https://github.com/catppuccin/kde)** - 🌻 Soothing pastel theme for KDE (1 month ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (5 months ago)
