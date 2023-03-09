@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (1 day ago)
-- **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (3 days ago)
+- **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** (today)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (2 days ago)
+- **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (4 days ago)
 - **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (1 week ago)
 - **[StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)** - Home Assistant component for Solarman collectors used with a variety of inverters.   (4 weeks ago)
-- **[teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes)** - 📖 100 Go Mistakes and How to Avoid Them (1 month ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (5 months ago)
