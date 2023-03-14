@@ -6,7 +6,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 #### 👨‍💻 Repositories I created recently
 - **[Cian911/bento](https://github.com/Cian911/bento)**
-- **[Cian911/flink-home](https://github.com/Cian911/flink-home)** - Flink home is a scala streaming application run on my at home raspberry-pi cluster. The aim of flink home is to ingest data from various CO2 sensor nodes in my home (powered via the Pi Pico W), aggregate it, and sink it to InfluxDB which can be used as a source in grafana.
+- **[Cian911/flink-home](https://github.com/Cian911/flink-home)** - Custom made CO2 sensor using data to automate home ventilation system. :mask:
 - **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
 - **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** (4 days ago)
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (6 days ago)
+- **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** (5 days ago)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (1 week ago)
 - **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (1 week ago)
 - **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (2 weeks ago)
 - **[StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)** - Home Assistant component for Solarman collectors used with a variety of inverters.   (1 month ago)
