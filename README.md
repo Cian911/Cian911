@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** (5 days ago)
+- **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** (6 days ago)
 - **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (1 week ago)
 - **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (1 week ago)
 - **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (2 weeks ago)
