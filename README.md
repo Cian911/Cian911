@@ -25,14 +25,14 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** (2 weeks ago)
 - **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (2 weeks ago)
-- **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (2 weeks ago)
-- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (4 weeks ago)
+- **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (3 weeks ago)
+- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (1 month ago)
 - **[StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)** - Home Assistant component for Solarman collectors used with a variety of inverters.   (1 month ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (6 months ago)
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (1 year ago)
-- [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (4 years ago)
+- [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (5 years ago)
 
 #### 💬 Feedback
 
