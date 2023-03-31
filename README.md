@@ -5,7 +5,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
-- **[Cian911/bento](https://github.com/Cian911/bento)**
+- **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data.
 - **[Cian911/flink-home](https://github.com/Cian911/flink-home)** - Custom made CO2 sensor using data to automate home ventilation system. :mask:
 - **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Cian911/bento](https://github.com/Cian911/bento)** (today)
+- **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data. (today)
 - **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT. (3 weeks ago)
 - **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (3 weeks ago)
 - **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (3 weeks ago)
