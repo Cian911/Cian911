@@ -14,7 +14,6 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [dlvhdr/gh-dash @ v3.7.6](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.6) (1 month ago)
 - [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (3 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (7 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (7 months ago)
@@ -23,10 +22,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data. (3 days ago)
+- **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data. (4 days ago)
 - **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT. (3 weeks ago)
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (3 weeks ago)
-- **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (4 weeks ago)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (4 weeks ago)
+- **[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)** - Investment Research for Everyone, Anywhere. (1 month ago)
 - **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (1 month ago)
 
 #### 📄 Latest posts
