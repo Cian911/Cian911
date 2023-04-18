@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/bento-homebrew](https://github.com/Cian911/bento-homebrew)**
 - **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data.
 - **[Cian911/flink-home](https://github.com/Cian911/flink-home)** - Custom made CO2 sensor using data to automate home ventilation system. :mask:
 - **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 - **[Cian911/gomerge-archive-test](https://github.com/Cian911/gomerge-archive-test)**
-- **[Cian911/gh-gomerge](https://github.com/Cian911/gh-gomerge)**
 
 #### 🚀 Latest releases I've contributed to
 
