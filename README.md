@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim keybindings natively, or how they can be added with extensions. (today)
+- **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim keybindings natively, or how they can be added with extensions. (1 day ago)
 - **[Versent/saml2aws](https://github.com/Versent/saml2aws)** - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP (1 week ago)
 - **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data from InfluxDB. (1 month ago)
 - **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT. (1 month ago)
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (1 month ago)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (2 months ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (7 months ago)
