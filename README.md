@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/bento @ v0.0.1-rc](https://github.com/Cian911/bento/releases/tag/v0.0.1-rc) (1 week ago)
+- [Cian911/bento @ v0.0.1-rc](https://github.com/Cian911/bento/releases/tag/v0.0.1-rc) (2 weeks ago)
 - [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (4 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (8 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (8 months ago)
@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim keybindings natively, or how they can be added with extensions. (1 day ago)
+- **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim keybindings natively, or how they can be added with extensions. (2 days ago)
 - **[Versent/saml2aws](https://github.com/Versent/saml2aws)** - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP (1 week ago)
 - **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data from InfluxDB. (1 month ago)
 - **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT. (1 month ago)
