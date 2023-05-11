@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy)** - easyssh-proxy provides a simple implementation of some SSH protocol features in Go (2 days ago)
-- **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project. (5 days ago)
-- **[Versent/saml2aws](https://github.com/Versent/saml2aws)** - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP (1 week ago)
+- **[appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy)** - easyssh-proxy provides a simple implementation of some SSH protocol features in Go (3 days ago)
+- **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project. (6 days ago)
+- **[Versent/saml2aws](https://github.com/Versent/saml2aws)** - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP (2 weeks ago)
 - **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data from InfluxDB. (1 month ago)
 - **[dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)** - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT. (2 months ago)
 
