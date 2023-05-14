@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/bento @ v0.0.1-rc](https://github.com/Cian911/bento/releases/tag/v0.0.1-rc) (2 weeks ago)
+- [Cian911/bento @ v0.0.1-rc](https://github.com/Cian911/bento/releases/tag/v0.0.1-rc) (3 weeks ago)
 - [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (4 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (8 months ago)
 - [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (8 months ago)
@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy)** - easyssh-proxy provides a simple implementation of some SSH protocol features in Go (5 days ago)
+- **[appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy)** - easyssh-proxy provides a simple implementation of some SSH protocol features in Go (6 days ago)
 - **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project. (1 week ago)
 - **[Versent/saml2aws](https://github.com/Versent/saml2aws)** - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP (2 weeks ago)
 - **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data from InfluxDB. (1 month ago)
