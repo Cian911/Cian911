@@ -27,7 +27,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[zendesk/zendesk-aws-shell](https://github.com/zendesk/zendesk-aws-shell)** - Connect to Zendesk EC2 instances with AWS SSH (1 week ago)
 - **[appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy)** - easyssh-proxy provides a simple implementation of some SSH protocol features in Go (2 weeks ago)
 - **[erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)** - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project. (3 weeks ago)
-- **[Versent/saml2aws](https://github.com/Versent/saml2aws)** - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP (4 weeks ago)
+- **[Versent/saml2aws](https://github.com/Versent/saml2aws)** - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP (1 month ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (8 months ago)
