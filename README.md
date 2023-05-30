@@ -16,8 +16,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 weeks ago)
 - [Cian911/gomerge @ 3.2.0](https://github.com/Cian911/gomerge/releases/tag/3.2.0) (5 months ago)
-- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (8 months ago)
-- [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (8 months ago)
+- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (9 months ago)
+- [gen2brain/go-unarr @ v0.1.6](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.6) (9 months ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (2 years ago)
 
 #### ⭐ Recent Stars
