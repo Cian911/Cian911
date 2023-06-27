@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (6 days ago)
+- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (1 week ago)
 - [gen2brain/go-unarr @ v0.1.7](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.7) (3 weeks ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (9 months ago)
@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking)** - Tutorials, tools, and more as related to reverse engineering video games. (today)
-- **[maaslalani/invoice](https://github.com/maaslalani/invoice)** - Generate invoices from the command line (1 day ago)
-- **[cfinke/Channel-Two](https://github.com/cfinke/Channel-Two)** - Channel Two: Run your own television network in the browser. (6 days ago)
+- **[dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking)** - Tutorials, tools, and more as related to reverse engineering video games. (1 day ago)
+- **[maaslalani/invoice](https://github.com/maaslalani/invoice)** - Generate invoices from the command line (2 days ago)
+- **[cfinke/Channel-Two](https://github.com/cfinke/Channel-Two)** - Channel Two: Run your own television network in the browser. (1 week ago)
 - **[spf13/afero](https://github.com/spf13/afero)** - A FileSystem Abstraction System for Go (1 month ago)
 - **[zendesk/zendesk-aws-shell](https://github.com/zendesk/zendesk-aws-shell)** - Connect to Zendesk EC2 instances with AWS SSH (1 month ago)
 
