@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (2 weeks ago)
+- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (3 weeks ago)
 - [gen2brain/go-unarr @ v0.1.7](https://github.com/gen2brain/go-unarr/releases/tag/v0.1.7) (1 month ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 month ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (10 months ago)
@@ -26,7 +26,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[zendesk/golang-locust](https://github.com/zendesk/golang-locust)** - Zendesk Load Generator (ZLG) Backend (1 week ago)
 - **[dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking)** - Tutorials, tools, and more as related to reverse engineering video games. (2 weeks ago)
 - **[maaslalani/invoice](https://github.com/maaslalani/invoice)** - Command line invoice generator (2 weeks ago)
-- **[cfinke/Channel-Two](https://github.com/cfinke/Channel-Two)** - Channel Two: Run your own television network in the browser. (2 weeks ago)
+- **[cfinke/Channel-Two](https://github.com/cfinke/Channel-Two)** - Channel Two: Run your own television network in the browser. (3 weeks ago)
 - **[spf13/afero](https://github.com/spf13/afero)** - A FileSystem Abstraction System for Go (1 month ago)
 
 #### 📄 Latest posts
