@@ -30,7 +30,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[spf13/afero](https://github.com/spf13/afero)** - A FileSystem Abstraction System for Go (1 month ago)
 
 #### 📄 Latest posts
-- [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (9 months ago)
+- [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (10 months ago)
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (1 year ago)
 - [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (5 years ago)
 
