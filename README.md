@@ -24,7 +24,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - **[zendesk/golang-locust](https://github.com/zendesk/golang-locust)** - Zendesk Load Generator (ZLG) Backend (3 weeks ago)
 - **[dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking)** - Tutorials, tools, and more as related to reverse engineering video games. (4 weeks ago)
-- **[maaslalani/invoice](https://github.com/maaslalani/invoice)** - Command line invoice generator (4 weeks ago)
+- **[maaslalani/invoice](https://github.com/maaslalani/invoice)** - Command line invoice generator (1 month ago)
 - **[cfinke/Channel-Two](https://github.com/cfinke/Channel-Two)** - Channel Two: Run your own television network in the browser. (1 month ago)
 - **[spf13/afero](https://github.com/spf13/afero)** - A FileSystem Abstraction System for Go (2 months ago)
 
