@@ -22,11 +22,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[kognise/arpchat](https://github.com/kognise/arpchat)** - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 day ago)
 - **[zendesk/golang-locust](https://github.com/zendesk/golang-locust)** - Zendesk Load Generator (ZLG) Backend (1 month ago)
 - **[dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking)** - Tutorials, tools, and more as related to reverse engineering video games. (1 month ago)
 - **[maaslalani/invoice](https://github.com/maaslalani/invoice)** - Command line invoice generator (1 month ago)
 - **[cfinke/Channel-Two](https://github.com/cfinke/Channel-Two)** - Channel Two: Run your own television network in the browser. (1 month ago)
-- **[spf13/afero](https://github.com/spf13/afero)** - A FileSystem Abstraction System for Go (2 months ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (10 months ago)
