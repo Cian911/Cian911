@@ -14,14 +14,14 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (1 month ago)
+- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (2 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (3 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (11 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[spandanb/learndb-py](https://github.com/spandanb/learndb-py)** - Learn database internals by implementing it from scratch. (5 days ago)
+- **[spandanb/learndb-py](https://github.com/spandanb/learndb-py)** - Learn database internals by implementing it from scratch. (6 days ago)
 - **[kognise/arpchat](https://github.com/kognise/arpchat)** - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 week ago)
 - **[zendesk/golang-locust](https://github.com/zendesk/golang-locust)** - Zendesk Load Generator (ZLG) Backend (1 month ago)
 - **[dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking)** - Tutorials, tools, and more as related to reverse engineering video games. (1 month ago)
