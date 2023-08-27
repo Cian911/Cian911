@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[gnolang/gno](https://github.com/gnolang/gno)** - Gno language &amp; gno.land chain (1 day ago)
-- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (5 days ago)
-- **[spandanb/learndb-py](https://github.com/spandanb/learndb-py)** - Learn database internals by implementing it from scratch. (1 week ago)
+- **[gnolang/gno](https://github.com/gnolang/gno)** - Gno language &amp; gno.land chain (2 days ago)
+- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (6 days ago)
+- **[spandanb/learndb-py](https://github.com/spandanb/learndb-py)** - Learn database internals by implementing it from scratch. (2 weeks ago)
 - **[kognise/arpchat](https://github.com/kognise/arpchat)** - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (2 weeks ago)
-- **[zendesk/golang-locust](https://github.com/zendesk/golang-locust)** - Zendesk Load Generator (ZLG) Backend (1 month ago)
+- **[zendesk/golang-locust](https://github.com/zendesk/golang-locust)** - Zendesk Load Generator (ZLG) Backend (2 months ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (11 months ago)
