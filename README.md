@@ -15,17 +15,17 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (2 months ago)
-- [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (3 months ago)
+- [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (4 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 year ago)
 
 #### ⭐ Recent Stars
 
 
+- **[d4l3k/go-pry](https://github.com/d4l3k/go-pry)** - An interactive REPL for Go that allows you to drop into your code at any point. (1 day ago)
 - **[zendesk/zendesk-flink-operator](https://github.com/zendesk/zendesk-flink-operator)** (1 week ago)
 - **[gnolang/gno](https://github.com/gnolang/gno)** - Gno language &amp; gno.land chain (2 weeks ago)
-- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (2 weeks ago)
+- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (3 weeks ago)
 - **[spandanb/learndb-py](https://github.com/spandanb/learndb-py)** - Learn database internals by implementing it from scratch. (4 weeks ago)
-- **[kognise/arpchat](https://github.com/kognise/arpchat)** - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 month ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (11 months ago)
