@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (2 months ago)
+- [Cian911/gomerge @ 3.2.1](https://github.com/Cian911/gomerge/releases/tag/3.2.1) (3 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (4 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 year ago)
 
@@ -24,7 +24,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[d4l3k/go-pry](https://github.com/d4l3k/go-pry)** - An interactive REPL for Go that allows you to drop into your code at any point. (1 week ago)
 - **[zendesk/zendesk-flink-operator](https://github.com/zendesk/zendesk-flink-operator)** (2 weeks ago)
 - **[gnolang/gno](https://github.com/gnolang/gno)** - Gno language &amp; gno.land chain (3 weeks ago)
-- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (3 weeks ago)
+- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (4 weeks ago)
 - **[spandanb/learndb-py](https://github.com/spandanb/learndb-py)** - Learn database internals by implementing it from scratch. (1 month ago)
 
 #### 📄 Latest posts
