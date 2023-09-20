@@ -24,7 +24,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[d4l3k/go-pry](https://github.com/d4l3k/go-pry)** - An interactive REPL for Go that allows you to drop into your code at any point. (1 week ago)
 - **[zendesk/zendesk-flink-operator](https://github.com/zendesk/zendesk-flink-operator)** (2 weeks ago)
 - **[gnolang/gno](https://github.com/gnolang/gno)** - Gno language &amp; gno.land chain (3 weeks ago)
-- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (4 weeks ago)
+- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (1 month ago)
 - **[spandanb/learndb-py](https://github.com/spandanb/learndb-py)** - Learn database internals by implementing it from scratch. (1 month ago)
 
 #### 📄 Latest posts
