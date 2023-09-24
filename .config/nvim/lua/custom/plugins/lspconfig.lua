@@ -6,9 +6,13 @@ local lspconfig = require "lspconfig"
 local servers = {
   "gopls",
   "marksman",
-  --"nvim-metals"
-  --"jq",
-  --"ruby-lsp",
+  --"nvim-metals",
+  "jsonls",
+  "html",
+  "ruby_ls",
+  --"rubocop",
+  "yamlls",
+  "tsserver",
 }
 
 for _, lsp in ipairs(servers) do
