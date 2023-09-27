@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[stretchr/testify](https://github.com/stretchr/testify)** - A toolkit with common assertions and mocks that plays nicely with the standard library (today)
 - **[zendesk/explore-flink-load-testing-pipeline](https://github.com/zendesk/explore-flink-load-testing-pipeline)** (6 days ago)
 - **[d4l3k/go-pry](https://github.com/d4l3k/go-pry)** - An interactive REPL for Go that allows you to drop into your code at any point. (2 weeks ago)
 - **[zendesk/zendesk-flink-operator](https://github.com/zendesk/zendesk-flink-operator)** (3 weeks ago)
 - **[gnolang/gno](https://github.com/gnolang/gno)** - Gno language &amp; gno.land chain (1 month ago)
-- **[schollz/croc](https://github.com/schollz/croc)** - Easily and securely send things from one computer to another :crocodile: :package: (1 month ago)
 
 #### 📄 Latest posts
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 year ago)
