@@ -24,7 +24,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (1 week ago)
 - **[stretchr/testify](https://github.com/stretchr/testify)** - A toolkit with common assertions and mocks that plays nicely with the standard library (1 week ago)
 - **[zendesk/explore-flink-load-testing-pipeline](https://github.com/zendesk/explore-flink-load-testing-pipeline)** (2 weeks ago)
-- **[d4l3k/go-pry](https://github.com/d4l3k/go-pry)** - An interactive REPL for Go that allows you to drop into your code at any point. (4 weeks ago)
+- **[d4l3k/go-pry](https://github.com/d4l3k/go-pry)** - An interactive REPL for Go that allows you to drop into your code at any point. (1 month ago)
 - **[zendesk/zendesk-flink-operator](https://github.com/zendesk/zendesk-flink-operator)** (1 month ago)
 
 #### 📄 Latest posts
