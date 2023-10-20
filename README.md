@@ -14,14 +14,14 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (2 days ago)
+- [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (3 days ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (5 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 year ago)
 
 #### ⭐ Recent Stars
 
 
-- **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (2 weeks ago)
+- **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (3 weeks ago)
 - **[stretchr/testify](https://github.com/stretchr/testify)** - A toolkit with common assertions and mocks that plays nicely with the standard library (3 weeks ago)
 - **[zendesk/explore-flink-load-testing-pipeline](https://github.com/zendesk/explore-flink-load-testing-pipeline)** (4 weeks ago)
 - **[d4l3k/go-pry](https://github.com/d4l3k/go-pry)** - An interactive REPL for Go that allows you to drop into your code at any point. (1 month ago)
