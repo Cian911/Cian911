@@ -21,7 +21,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[canonical/chisel](https://github.com/canonical/chisel)** (6 days ago)
+- **[canonical/chisel](https://github.com/canonical/chisel)** (1 week ago)
 - **[chdb-io/chdb](https://github.com/chdb-io/chdb)** - chDB is an embedded OLAP SQL Engine powered by ClickHouse (1 week ago)
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (1 month ago)
