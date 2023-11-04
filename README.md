@@ -28,9 +28,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[stretchr/testify](https://github.com/stretchr/testify)** - A toolkit with common assertions and mocks that plays nicely with the standard library (1 month ago)
 
 #### 📄 Latest posts
+- [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (today)
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 year ago)
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 years ago)
-- [How I exploited a bug in the Avios Travel rewards programme to get 1000’s of air-mile points for free](https://ciangallagher.me/2018/04/21/How-i-exploited-a-bug-in-the-avios-travel-rewards-system/) (5 years ago)
 
 #### 💬 Feedback
 
