@@ -23,12 +23,12 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - **[canonical/chisel](https://github.com/canonical/chisel)** (1 week ago)
 - **[chdb-io/chdb](https://github.com/chdb-io/chdb)** - chDB is an embedded OLAP SQL Engine powered by ClickHouse (1 week ago)
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Master programming by recreating your favorite technologies from scratch. (1 week ago)
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
 - **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (1 month ago)
 - **[stretchr/testify](https://github.com/stretchr/testify)** - A toolkit with common assertions and mocks that plays nicely with the standard library (1 month ago)
 
 #### 📄 Latest posts
-- [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (today)
+- [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (1 day ago)
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 year ago)
 - [Introducing Switchboard](https://ciangallagher.me/2022/01/28/Introducing-switchboard/) (2 years ago)
 
