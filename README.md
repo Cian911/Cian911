@@ -21,10 +21,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
+- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
 - **[canonical/chisel](https://github.com/canonical/chisel)** (2 weeks ago)
 - **[chdb-io/chdb](https://github.com/chdb-io/chdb)** - chDB is an embedded OLAP SQL Engine powered by ClickHouse (2 weeks ago)
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Master programming by recreating your favorite technologies from scratch. (3 weeks ago)
 - **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (1 month ago)
 
 #### 📄 Latest posts
