@@ -21,10 +21,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (5 days ago)
+- **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (6 days ago)
 - **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - **[canonical/chisel](https://github.com/canonical/chisel)** (3 weeks ago)
-- **[chdb-io/chdb](https://github.com/chdb-io/chdb)** - chDB is an embedded OLAP SQL Engine powered by ClickHouse (3 weeks ago)
+- **[chdb-io/chdb](https://github.com/chdb-io/chdb)** - chDB is an embedded OLAP SQL Engine powered by ClickHouse (4 weeks ago)
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Master programming by recreating your favorite technologies from scratch. (4 weeks ago)
 
 #### 📄 Latest posts
