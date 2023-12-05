@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink)** - An RTSP bridge to Reolink IP cameras (2 days ago)
-- **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (2 weeks ago)
-- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - The mighty, self-hostable Git server for the command line🍦 (3 weeks ago)
+- **[anfragment/zen](https://github.com/anfragment/zen)** - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (today)
+- **[QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink)** - An RTSP bridge to Reolink IP cameras (3 days ago)
+- **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (3 weeks ago)
+- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - The mighty, self-hostable Git server for the command line🍦 (4 weeks ago)
 - **[canonical/chisel](https://github.com/canonical/chisel)** (1 month ago)
-- **[chdb-io/chdb](https://github.com/chdb-io/chdb)** - chDB is an embedded OLAP SQL Engine ⭐ powerd by OSS ClickHouse  (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 week ago)
