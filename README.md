@@ -21,14 +21,14 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[anfragment/zen](https://github.com/anfragment/zen)** - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (5 days ago)
+- **[anfragment/zen](https://github.com/anfragment/zen)** - Simple, free and efficient ad-blocker and privacy guard for Windows, MacOS and Linux (6 days ago)
 - **[QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink)** - An RTSP bridge to Reolink IP cameras (1 week ago)
 - **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (3 weeks ago)
 - **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - The mighty, self-hostable Git server for the command line🍦 (1 month ago)
 - **[canonical/chisel](https://github.com/canonical/chisel)** (1 month ago)
 
 #### 📄 Latest posts
-- [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 week ago)
+- [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 weeks ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (1 month ago)
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 year ago)
 
