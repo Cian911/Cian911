@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (1 month ago)
+- [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (2 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (7 months ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 year ago)
 
@@ -22,7 +22,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - **[anfragment/zen](https://github.com/anfragment/zen)** - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (1 week ago)
-- **[QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink)** - An RTSP bridge to Reolink IP cameras (1 week ago)
+- **[QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink)** - An RTSP bridge to Reolink IP cameras (2 weeks ago)
 - **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (1 month ago)
 - **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - The mighty, self-hostable Git server for the command line🍦 (1 month ago)
 - **[canonical/chisel](https://github.com/canonical/chisel)** (1 month ago)
