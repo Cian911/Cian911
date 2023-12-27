@@ -28,7 +28,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[canonical/chisel](https://github.com/canonical/chisel)** (2 months ago)
 
 #### 📄 Latest posts
-- [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (4 weeks ago)
+- [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 month ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (1 month ago)
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 year ago)
 
