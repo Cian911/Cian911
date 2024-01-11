@@ -22,8 +22,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[nsqio/nsq](https://github.com/nsqio/nsq)** - A realtime distributed messaging platform (today)
-- **[hrvach/deskhop](https://github.com/hrvach/deskhop)** - Fast Desktop Switching Device (1 week ago)
+- **[nsqio/nsq](https://github.com/nsqio/nsq)** - A realtime distributed messaging platform (1 day ago)
+- **[hrvach/deskhop](https://github.com/hrvach/deskhop)** - Fast Desktop Switching Device (2 weeks ago)
 - **[anfragment/zen](https://github.com/anfragment/zen)** - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (1 month ago)
 - **[QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink)** - An RTSP bridge to Reolink IP cameras (1 month ago)
 - **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (1 month ago)
