@@ -22,11 +22,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[Andre0512/hon](https://github.com/Andre0512/hon)** - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. (1 day ago)
 - **[nsqio/nsq](https://github.com/nsqio/nsq)** - A realtime distributed messaging platform (2 weeks ago)
-- **[hrvach/deskhop](https://github.com/hrvach/deskhop)** - Fast Desktop Switching Device (3 weeks ago)
+- **[hrvach/deskhop](https://github.com/hrvach/deskhop)** - Fast Desktop Switching Device (4 weeks ago)
 - **[anfragment/zen](https://github.com/anfragment/zen)** - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (1 month ago)
 - **[QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink)** - An RTSP bridge to Reolink IP cameras (1 month ago)
-- **[onsi/ginkgo](https://github.com/onsi/ginkgo)** - A Modern Testing Framework for Go (2 months ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 month ago)
