@@ -22,15 +22,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[timeplus-io/proton](https://github.com/timeplus-io/proton)** - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. (1 day ago)
+- **[dgllghr/stanchion](https://github.com/dgllghr/stanchion)** - A SQLite extension that brings column-oriented tables to SQLite (today)
+- **[timeplus-io/proton](https://github.com/timeplus-io/proton)** - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. (2 days ago)
 - **[Andre0512/hon](https://github.com/Andre0512/hon)** - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. (1 week ago)
 - **[nsqio/nsq](https://github.com/nsqio/nsq)** - A realtime distributed messaging platform (3 weeks ago)
 - **[hrvach/deskhop](https://github.com/hrvach/deskhop)** - Fast Desktop Switching Device (1 month ago)
-- **[anfragment/zen](https://github.com/anfragment/zen)** - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 months ago)
-- [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (2 months ago)
+- [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (3 months ago)
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 year ago)
 
 #### 💬 Feedback
