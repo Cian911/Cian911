@@ -22,10 +22,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[dgllghr/stanchion](https://github.com/dgllghr/stanchion)** - A SQLite extension that brings column-oriented tables to SQLite (4 days ago)
-- **[timeplus-io/proton](https://github.com/timeplus-io/proton)** - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. (6 days ago)
-- **[Andre0512/hon](https://github.com/Andre0512/hon)** - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. (1 week ago)
-- **[nsqio/nsq](https://github.com/nsqio/nsq)** - A realtime distributed messaging platform (3 weeks ago)
+- **[dgllghr/stanchion](https://github.com/dgllghr/stanchion)** - A SQLite extension that brings column-oriented tables to SQLite (5 days ago)
+- **[timeplus-io/proton](https://github.com/timeplus-io/proton)** - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. (1 week ago)
+- **[Andre0512/hon](https://github.com/Andre0512/hon)** - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. (2 weeks ago)
+- **[nsqio/nsq](https://github.com/nsqio/nsq)** - A realtime distributed messaging platform (4 weeks ago)
 - **[hrvach/deskhop](https://github.com/hrvach/deskhop)** - Fast Desktop Switching Device (1 month ago)
 
 #### 📄 Latest posts
