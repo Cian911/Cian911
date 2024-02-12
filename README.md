@@ -22,10 +22,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (today)
-- **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (today)
-- **[GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)** - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  (4 days ago)
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (4 days ago)
+- **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (1 day ago)
+- **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (1 day ago)
+- **[GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)** - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  (5 days ago)
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (5 days ago)
 - **[dgllghr/stanchion](https://github.com/dgllghr/stanchion)** - A SQLite extension that brings column-oriented tables to SQLite (1 week ago)
 
 #### 📄 Latest posts
