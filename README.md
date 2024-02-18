@@ -22,9 +22,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (1 day ago)
-- **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (6 days ago)
-- **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (6 days ago)
+- **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (2 days ago)
+- **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (1 week ago)
+- **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (1 week ago)
 - **[GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)** - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  (1 week ago)
 - **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (1 week ago)
 
