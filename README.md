@@ -22,11 +22,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (today)
-- **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (4 days ago)
+- **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (1 day ago)
+- **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (5 days ago)
 - **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (1 week ago)
 - **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (1 week ago)
-- **[GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)** - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  (1 week ago)
+- **[GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)** - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 months ago)
