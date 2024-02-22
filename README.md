@@ -22,8 +22,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (1 day ago)
-- **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (5 days ago)
+- **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (2 days ago)
+- **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (6 days ago)
 - **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (1 week ago)
 - **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (1 week ago)
 - **[GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)** - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  (2 weeks ago)
