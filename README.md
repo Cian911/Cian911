@@ -16,13 +16,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (4 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (9 months ago)
-- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (1 year ago)
+- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (2 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (3 days ago)
+- **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (4 days ago)
 - **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (1 week ago)
 - **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (1 week ago)
 - **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (1 week ago)
