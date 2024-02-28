@@ -22,11 +22,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[ali-rantakari/icalBuddy](https://github.com/ali-rantakari/icalBuddy)** - Command-line utility for printing events and tasks from the OS X calendar database. (today)
 - **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (1 week ago)
 - **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (1 week ago)
 - **[devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)** - A PowerShell module to show file and folder icons in the terminal (2 weeks ago)
 - **[Textualize/toolong](https://github.com/Textualize/toolong)** - A terminal application to view, tail, merge, and search log files (plus JSONL). (2 weeks ago)
-- **[GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)** - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (3 months ago)
