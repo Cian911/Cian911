@@ -27,6 +27,9 @@ M.general = {
 
     -- Jump to start of word at beginning of line
     ["0"] = { "^", "Jump to start of word at beginning of line" },
+
+    ["<leader>ge"] = { ":lua vim.diagnostic.goto_next()<CR>", "Jump to next error in file" },
+    ["<leader>gp"] = { ":lua vim.diagnostic.goto_prev()<CR>", "Jump to previous error in file" },
   },
 }
 
