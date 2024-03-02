@@ -22,11 +22,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/xfce4-terminal](https://github.com/catppuccin/xfce4-terminal)** - 🐭 Soothing pastel theme for XFCE4-Terminal (today)
 - **[garethflowers/docker-ftp-server](https://github.com/garethflowers/docker-ftp-server)** - A simple FTP server, using `vsftpd`. (3 days ago)
 - **[ali-rantakari/icalBuddy](https://github.com/ali-rantakari/icalBuddy)** - Command-line utility for printing events and tasks from the OS X calendar database. (3 days ago)
 - **[zendesk/secret-service-v2-api](https://github.com/zendesk/secret-service-v2-api)** (1 week ago)
 - **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (1 week ago)
-- **[MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)** (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (3 months ago)
