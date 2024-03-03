@@ -22,15 +22,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/xfce4-terminal](https://github.com/catppuccin/xfce4-terminal)** - 🐭 Soothing pastel theme for XFCE4-Terminal (today)
-- **[garethflowers/docker-ftp-server](https://github.com/garethflowers/docker-ftp-server)** - A simple FTP server, using `vsftpd`. (3 days ago)
-- **[ali-rantakari/icalBuddy](https://github.com/ali-rantakari/icalBuddy)** - Command-line utility for printing events and tasks from the OS X calendar database. (3 days ago)
+- **[catppuccin/xfce4-terminal](https://github.com/catppuccin/xfce4-terminal)** - 🐭 Soothing pastel theme for XFCE4-Terminal (1 day ago)
+- **[garethflowers/docker-ftp-server](https://github.com/garethflowers/docker-ftp-server)** - A simple FTP server, using `vsftpd`. (4 days ago)
+- **[ali-rantakari/icalBuddy](https://github.com/ali-rantakari/icalBuddy)** - Command-line utility for printing events and tasks from the OS X calendar database. (4 days ago)
 - **[zendesk/secret-service-v2-api](https://github.com/zendesk/secret-service-v2-api)** (1 week ago)
 - **[XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit)** - A modern dashboard exploit for the original Microsoft Xbox. (1 week ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (3 months ago)
-- [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (3 months ago)
+- [Building a CO2 sensor using a Pi PicoW &amp; Automating a Home Ventilation System - Part 1](https://ciangallagher.me/2023/11/04/custom-co2-sensor-using-using-pi-picow/) (4 months ago)
 - [Switchboard v1.0.0 and Switchboard Pro](https://ciangallagher.me/2022/09/17/Switchboard-v1-and-pro/) (1 year ago)
 
 #### 💬 Feedback
