@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/tmux-xdrip](https://github.com/Cian911/tmux-xdrip)** - Tmux plugin to display glucose data from xDrip as a status icon.
 - **[Cian911/monkey-language](https://github.com/Cian911/monkey-language)**
 - **[Cian911/homebrew-bento](https://github.com/Cian911/homebrew-bento)**
 - **[Cian911/bento](https://github.com/Cian911/bento)** - Go client to automate blauberg-vento smart fan &amp; ventilation systems based on CO2 data from InfluxDB.
 - **[Cian911/flink-home](https://github.com/Cian911/flink-home)** - Custom made CO2 sensor using data to automate home ventilation system. :mask:
-- **[Cian911/torrent-client](https://github.com/Cian911/torrent-client)**
 
 #### 🚀 Latest releases I've contributed to
 
@@ -22,11 +22,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Cian911/catppuccin-tmux](https://github.com/Cian911/catppuccin-tmux)** - 💽 Soothing pastel theme for Tmux! (today)
-- **[catppuccin/xfce4-terminal](https://github.com/catppuccin/xfce4-terminal)** - 🐭 Soothing pastel theme for XFCE4-Terminal (1 day ago)
-- **[garethflowers/docker-ftp-server](https://github.com/garethflowers/docker-ftp-server)** - A simple FTP server, using `vsftpd`. (4 days ago)
-- **[ali-rantakari/icalBuddy](https://github.com/ali-rantakari/icalBuddy)** - Command-line utility for printing events and tasks from the OS X calendar database. (4 days ago)
-- **[zendesk/secret-service-v2-api](https://github.com/zendesk/secret-service-v2-api)** (1 week ago)
+- **[Cian911/tmux-xdrip](https://github.com/Cian911/tmux-xdrip)** - Tmux plugin to display glucose data from xDrip as a status icon. (today)
+- **[tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar)** - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like. (1 day ago)
+- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (1 day ago)
+- **[Cian911/catppuccin-tmux](https://github.com/Cian911/catppuccin-tmux)** - 💽 Soothing pastel theme for Tmux! (1 day ago)
+- **[catppuccin/xfce4-terminal](https://github.com/catppuccin/xfce4-terminal)** - 🐭 Soothing pastel theme for XFCE4-Terminal (2 days ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (3 months ago)
