@@ -22,11 +22,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[briangwaltney/paren-hint.nvim](https://github.com/briangwaltney/paren-hint.nvim)** (1 day ago)
-- **[Cian911/tmux-xdrip](https://github.com/Cian911/tmux-xdrip)** - Tmux plugin to display glucose data from xDrip as a status icon. (1 day ago)
-- **[tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar)** - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like. (2 days ago)
-- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (2 days ago)
-- **[Cian911/catppuccin-tmux](https://github.com/Cian911/catppuccin-tmux)** - 💽 Soothing pastel theme for Tmux! (2 days ago)
+- **[briangwaltney/paren-hint.nvim](https://github.com/briangwaltney/paren-hint.nvim)** (2 days ago)
+- **[Cian911/tmux-xdrip](https://github.com/Cian911/tmux-xdrip)** - Tmux plugin to display glucose data from xDrip as a status icon. (2 days ago)
+- **[tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar)** - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like. (3 days ago)
+- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (3 days ago)
+- **[Cian911/catppuccin-tmux](https://github.com/Cian911/catppuccin-tmux)** - 💽 Soothing pastel theme for Tmux! (3 days ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (3 months ago)
