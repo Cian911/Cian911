@@ -12,6 +12,13 @@ M.general = {
     -- split windows vertivally & horizontal
     ["sh"] = { ":split<Return><C-w>w", "Split Horizontal" },
     ["sv"] = { ":vsplit<Return><C-w>w", "Split Vertical" },
+    -- Equalize all window panes
+    ["<leader>eq"] = { ":new | q<CR>", "Equal size all window panes open." },
+    -- Resize panes
+    ["<leader>h"] = { "5<C-w>+", "Reaize up." },
+    ["<leader>j"] = { "5<C-w>-", "Resize down." },
+    ["<leader>k"] = { "5<C-w>>", "Resize right." },
+    ["<leader>l"] = { "5<C-w><", "Resize left." },
 
     -- save
     ["<C-s>"] = { "<cmd> w <CR>", "save file" },
