@@ -75,3 +75,4 @@ neofetch
 export PATH="/home/linuxbrew/.linuxbrew/opt/scala@2.12/bin:$PATH"
 export PATH="/home/linuxbrew/.linuxbrew/opt/scala@2.11/bin:$PATH"
 export PATH="/home/linuxbrew/.linuxbrew/opt/openjdk@11/bin:$PATH"
+export DOCKER_HOST=unix:///run/user/1000/docker.sock
