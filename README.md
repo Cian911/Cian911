@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ spark-operator-chart-1.4.1](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.1) (1 day ago)
+- [kubeflow/spark-operator @ spark-operator-chart-1.4.1](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.1) (2 days ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (8 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 day ago)
 - **[piku/piku](https://github.com/piku/piku)** - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 week ago)
 - **[ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects)** - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library. (2 weeks ago)
 - **[pratikdaigavane/trading-leaderboard](https://github.com/pratikdaigavane/trading-leaderboard)** - Efficient and scalable program that dynamically updates the leader-board with the latest ranking every minute, ensuring accuracy and performance even under high trading activity. (3 weeks ago)
-- **[naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)** - llama3 implementation one matrix multiplication at a time (3 weeks ago)
-- **[andydunstall/piko](https://github.com/andydunstall/piko)** - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 month ago)
+- **[naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)** - llama3 implementation one matrix multiplication at a time (4 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (6 months ago)
