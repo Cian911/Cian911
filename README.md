@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[MrKai77/Loop](https://github.com/MrKai77/Loop)** - Window management made elegant. (today)
 - **[nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)** - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. (3 days ago)
 - **[nikolaydubina/go-hackers-delight](https://github.com/nikolaydubina/go-hackers-delight)** - &#34;Hacker&#39;s Delight&#34; in Go (3 days ago)
 - **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (4 days ago)
 - **[piku/piku](https://github.com/piku/piku)** - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 week ago)
-- **[ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects)** - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library. (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (6 months ago)
