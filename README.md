@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ spark-operator-chart-1.4.2](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.2) (5 days ago)
+- [kubeflow/spark-operator @ spark-operator-chart-1.4.2](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.2) (6 days ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (8 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display)** (2 days ago)
-- **[kubeflow/training-operator](https://github.com/kubeflow/training-operator)** - Distributed ML Training and Fine-Tuning on Kubernetes (2 days ago)
-- **[MrKai77/Loop](https://github.com/MrKai77/Loop)** - Window management made elegant. (2 days ago)
-- **[nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)** - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. (5 days ago)
-- **[nikolaydubina/go-hackers-delight](https://github.com/nikolaydubina/go-hackers-delight)** - &#34;Hacker&#39;s Delight&#34; in Go (5 days ago)
+- **[Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display)** (3 days ago)
+- **[kubeflow/training-operator](https://github.com/kubeflow/training-operator)** - Distributed ML Training and Fine-Tuning on Kubernetes (3 days ago)
+- **[MrKai77/Loop](https://github.com/MrKai77/Loop)** - Window management made elegant. (3 days ago)
+- **[nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)** - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. (6 days ago)
+- **[nikolaydubina/go-hackers-delight](https://github.com/nikolaydubina/go-hackers-delight)** - &#34;Hacker&#39;s Delight&#34; in Go (6 days ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (6 months ago)
