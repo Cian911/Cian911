@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display)** (4 days ago)
-- **[kubeflow/training-operator](https://github.com/kubeflow/training-operator)** - Distributed ML Training and Fine-Tuning on Kubernetes (4 days ago)
-- **[MrKai77/Loop](https://github.com/MrKai77/Loop)** - Window management made elegant. (4 days ago)
+- **[Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display)** (5 days ago)
+- **[kubeflow/training-operator](https://github.com/kubeflow/training-operator)** - Distributed ML Training and Fine-Tuning on Kubernetes (5 days ago)
+- **[MrKai77/Loop](https://github.com/MrKai77/Loop)** - Window management made elegant. (5 days ago)
 - **[nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)** - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. (1 week ago)
 - **[nikolaydubina/go-hackers-delight](https://github.com/nikolaydubina/go-hackers-delight)** - &#34;Hacker&#39;s Delight&#34; in Go (1 week ago)
 
