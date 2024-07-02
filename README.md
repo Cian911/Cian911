@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[WerWolv/ImHex](https://github.com/WerWolv/ImHex)** - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (2 days ago)
+- **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
+- **[h0mbre/Learning-C](https://github.com/h0mbre/Learning-C)** - A series of mini-projects used to learn C for beginners (1 day ago)
+- **[WerWolv/ImHex](https://github.com/WerWolv/ImHex)** - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (3 days ago)
 - **[Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display)** (1 week ago)
 - **[kubeflow/training-operator](https://github.com/kubeflow/training-operator)** - Distributed ML Training and Fine-Tuning on Kubernetes (1 week ago)
-- **[MrKai77/Loop](https://github.com/MrKai77/Loop)** - Window management made elegant. (1 week ago)
-- **[nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)** - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (7 months ago)
