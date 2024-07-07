@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ spark-operator-chart-1.4.3](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.3) (3 days ago)
+- [kubeflow/spark-operator @ spark-operator-chart-1.4.3](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.3) (4 days ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (8 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (5 days ago)
-- **[h0mbre/Learning-C](https://github.com/h0mbre/Learning-C)** - A series of mini-projects used to learn C for beginners (5 days ago)
+- **[danielmiessler/fabric](https://github.com/danielmiessler/fabric)** - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (today)
+- **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (6 days ago)
+- **[h0mbre/Learning-C](https://github.com/h0mbre/Learning-C)** - A series of mini-projects used to learn C for beginners (6 days ago)
 - **[WerWolv/ImHex](https://github.com/WerWolv/ImHex)** - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (1 week ago)
 - **[Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display)** (2 weeks ago)
-- **[kubeflow/training-operator](https://github.com/kubeflow/training-operator)** - Distributed ML Training and Fine-Tuning on Kubernetes (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (7 months ago)
