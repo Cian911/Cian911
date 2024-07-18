@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (1 day ago)
-- **[sauljabin/kaskade](https://github.com/sauljabin/kaskade)** - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! (2 days ago)
+- **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 days ago)
+- **[sauljabin/kaskade](https://github.com/sauljabin/kaskade)** - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! (3 days ago)
 - **[danielmiessler/fabric](https://github.com/danielmiessler/fabric)** - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (1 week ago)
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 weeks ago)
 - **[h0mbre/Learning-C](https://github.com/h0mbre/Learning-C)** - A series of mini-projects used to learn C for beginners (2 weeks ago)
