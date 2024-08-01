@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ spark-operator-chart-1.4.6](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.6) (5 days ago)
+- [kubeflow/spark-operator @ spark-operator-chart-1.4.6](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.6) (6 days ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (9 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[alexta69/metube](https://github.com/alexta69/metube)** - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (2 days ago)
+- **[DylanAkp/AirtagsAnywhere](https://github.com/DylanAkp/AirtagsAnywhere)** - Use your airtags with Android/Linux/Windows devices. (1 day ago)
+- **[dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)** - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (1 day ago)
+- **[alexta69/metube](https://github.com/alexta69/metube)** - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (3 days ago)
 - **[linuxmint/timeshift](https://github.com/linuxmint/timeshift)** - System restore tool for Linux. Creates filesystem snapshots using rsync&#43;hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. (1 week ago)
 - **[awslabs/data-on-eks](https://github.com/awslabs/data-on-eks)** - DoEKS is a tool to build, deploy and scale Data &amp; ML Platforms on Amazon EKS (1 week ago)
-- **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
-- **[sauljabin/kaskade](https://github.com/sauljabin/kaskade)** - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (8 months ago)
