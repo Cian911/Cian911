@@ -18,14 +18,14 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (9 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
-- [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (2 years ago)
+- [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (3 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (today)
-- **[DylanAkp/AirtagsAnywhere](https://github.com/DylanAkp/AirtagsAnywhere)** - Use your airtags with Android/Linux/Windows devices. (5 days ago)
-- **[dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)** - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (5 days ago)
+- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 day ago)
+- **[DylanAkp/AirtagsAnywhere](https://github.com/DylanAkp/AirtagsAnywhere)** - Use your airtags with Android/Linux/Windows devices. (6 days ago)
+- **[dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)** - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (6 days ago)
 - **[alexta69/metube](https://github.com/alexta69/metube)** - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (1 week ago)
 - **[linuxmint/timeshift](https://github.com/linuxmint/timeshift)** - System restore tool for Linux. Creates filesystem snapshots using rsync&#43;hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. (2 weeks ago)
 
