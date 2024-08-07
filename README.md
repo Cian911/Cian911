@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 day ago)
-- **[DylanAkp/AirtagsAnywhere](https://github.com/DylanAkp/AirtagsAnywhere)** - Use your airtags with Android/Linux/Windows devices. (6 days ago)
-- **[dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)** - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (6 days ago)
+- **[pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox)** - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming (1 day ago)
+- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (2 days ago)
+- **[DylanAkp/AirtagsAnywhere](https://github.com/DylanAkp/AirtagsAnywhere)** - Use your airtags with Android/Linux/Windows devices. (1 week ago)
+- **[dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)** - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (1 week ago)
 - **[alexta69/metube](https://github.com/alexta69/metube)** - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (1 week ago)
-- **[linuxmint/timeshift](https://github.com/linuxmint/timeshift)** - System restore tool for Linux. Creates filesystem snapshots using rsync&#43;hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (8 months ago)
