@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ spark-operator-chart-1.4.6](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.6) (1 week ago)
+- [kubeflow/spark-operator @ spark-operator-chart-1.4.6](https://github.com/kubeflow/spark-operator/releases/tag/spark-operator-chart-1.4.6) (2 weeks ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (9 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
 - [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)** - Kubebuilder - SDK for building Kubernetes APIs using CRDs (today)
-- **[pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox)** - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming (2 days ago)
-- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 days ago)
+- **[kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)** - Kubebuilder - SDK for building Kubernetes APIs using CRDs (1 day ago)
+- **[pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox)** - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming (3 days ago)
+- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (4 days ago)
 - **[DylanAkp/AirtagsAnywhere](https://github.com/DylanAkp/AirtagsAnywhere)** - Use your airtags with Android/Linux/Windows devices. (1 week ago)
 - **[dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)** - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (1 week ago)
 
