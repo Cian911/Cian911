@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[danvergara/morphos](https://github.com/danvergara/morphos)** - Self-hosted file converter server (today)
+- **[dweymouth/supersonic](https://github.com/dweymouth/supersonic)** - A lightweight and full-featured cross-platform desktop client for self-hosted music servers (today)
 - **[kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)** - Kubebuilder - SDK for building Kubernetes APIs using CRDs (1 day ago)
 - **[pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox)** - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming (3 days ago)
 - **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (4 days ago)
-- **[DylanAkp/AirtagsAnywhere](https://github.com/DylanAkp/AirtagsAnywhere)** - Use your airtags with Android/Linux/Windows devices. (1 week ago)
-- **[dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)** - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device (1 week ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (8 months ago)
