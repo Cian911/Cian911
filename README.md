@@ -14,17 +14,17 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.0.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0-rc.0) (6 days ago)
+- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (1 day ago)
+- [kubeflow/spark-operator @ v2.0.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0-rc.0) (1 week ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (10 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
-- [Cian911/switchboard @ v1.0.0](https://github.com/Cian911/switchboard/releases/tag/v1.0.0) (2 years ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (3 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[wailsapp/wails](https://github.com/wailsapp/wails)** - Create beautiful applications using Go (6 days ago)
-- **[spion/adbfs-rootless](https://github.com/spion/adbfs-rootless)** - Mount Android phones on Linux with adb. No root required. (6 days ago)
+- **[wailsapp/wails](https://github.com/wailsapp/wails)** - Create beautiful applications using Go (1 week ago)
+- **[spion/adbfs-rootless](https://github.com/spion/adbfs-rootless)** - Mount Android phones on Linux with adb. No root required. (1 week ago)
 - **[danvergara/morphos](https://github.com/danvergara/morphos)** - Self-hosted file converter server (1 week ago)
 - **[dweymouth/supersonic](https://github.com/dweymouth/supersonic)** - A lightweight and full-featured cross-platform desktop client for self-hosted music servers (1 week ago)
 - **[kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)** - Kubebuilder - SDK for building Kubernetes APIs using CRDs (1 week ago)
