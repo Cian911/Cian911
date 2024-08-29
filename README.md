@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[soypat/cyw43439](https://github.com/soypat/cyw43439)** - Driver for the Wifi&#43;bluetooth integrated circuit on the pico. (today)
-- **[kelseyhightower/confd](https://github.com/kelseyhightower/confd)** - Manage local application configuration files using templates and data from etcd or consul (3 days ago)
+- **[soypat/cyw43439](https://github.com/soypat/cyw43439)** - Driver for the Wifi&#43;bluetooth integrated circuit on the pico. (1 day ago)
+- **[kelseyhightower/confd](https://github.com/kelseyhightower/confd)** - Manage local application configuration files using templates and data from etcd or consul (4 days ago)
 - **[wailsapp/wails](https://github.com/wailsapp/wails)** - Create beautiful applications using Go (2 weeks ago)
 - **[spion/adbfs-rootless](https://github.com/spion/adbfs-rootless)** - Mount Android phones on Linux with adb. No root required. (2 weeks ago)
 - **[danvergara/morphos](https://github.com/danvergara/morphos)** - Self-hosted file converter server (2 weeks ago)
