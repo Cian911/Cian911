@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** - Deepfakes Software For All (1 day ago)
+- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** - Deepfakes Software For All (2 days ago)
 - **[soypat/cyw43439](https://github.com/soypat/cyw43439)** - Driver for the Wifi&#43;bluetooth integrated circuit on the pico. (1 week ago)
 - **[kelseyhightower/confd](https://github.com/kelseyhightower/confd)** - Manage local application configuration files using templates and data from etcd or consul (2 weeks ago)
 - **[wailsapp/wails](https://github.com/wailsapp/wails)** - Create beautiful applications using Go (4 weeks ago)
