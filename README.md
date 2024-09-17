@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (4 weeks ago)
+- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (1 month ago)
 - [kubeflow/spark-operator @ v2.0.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0-rc.0) (1 month ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (11 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[keisku/gmon](https://github.com/keisku/gmon)** - An eBPF tool monitoring a goroutine (4 days ago)
+- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (today)
+- **[keisku/gmon](https://github.com/keisku/gmon)** - An eBPF tool monitoring a goroutine (5 days ago)
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** - Deepfakes Software For All (1 week ago)
 - **[soypat/cyw43439](https://github.com/soypat/cyw43439)** - Driver for the Wifi&#43;bluetooth integrated circuit on the pico. (2 weeks ago)
 - **[kelseyhightower/confd](https://github.com/kelseyhightower/confd)** - Manage local application configuration files using templates and data from etcd or consul (3 weeks ago)
-- **[wailsapp/wails](https://github.com/wailsapp/wails)** - Create beautiful applications using Go (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (9 months ago)
