@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (today)
-- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (3 days ago)
+- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (1 day ago)
+- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (4 days ago)
 - **[keisku/gmon](https://github.com/keisku/gmon)** - An eBPF tool monitoring a goroutine (1 week ago)
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** - Deepfakes Software For All (1 week ago)
 - **[soypat/cyw43439](https://github.com/soypat/cyw43439)** - Driver for the Wifi&#43;bluetooth integrated circuit on the pico. (3 weeks ago)
