@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (2 days ago)
-- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (5 days ago)
+- **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (1 day ago)
+- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (3 days ago)
+- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (6 days ago)
 - **[keisku/gmon](https://github.com/keisku/gmon)** - An eBPF tool monitoring a goroutine (1 week ago)
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** - Deepfakes Software For All (2 weeks ago)
-- **[soypat/cyw43439](https://github.com/soypat/cyw43439)** - Driver for the Wifi&#43;bluetooth integrated circuit on the pico. (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (10 months ago)
