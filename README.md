@@ -14,8 +14,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
+- [kubeflow/spark-operator @ v2.0.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0) (today)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (1 month ago)
-- [kubeflow/spark-operator @ v2.0.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0-rc.0) (1 month ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (11 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (3 years ago)
