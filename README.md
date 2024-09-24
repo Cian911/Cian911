@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.0.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0) (today)
+- [kubeflow/spark-operator @ v2.0.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0) (1 day ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (1 month ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (11 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (1 day ago)
-- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (3 days ago)
-- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (6 days ago)
+- **[srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)** - Solve puzzles. Learn CUDA. (today)
+- **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (2 days ago)
+- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (4 days ago)
+- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (1 week ago)
 - **[keisku/gmon](https://github.com/keisku/gmon)** - An eBPF tool monitoring a goroutine (1 week ago)
-- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** - Deepfakes Software For All (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (10 months ago)
