@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (today)
 - **[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav)** - A git diff pager based on delta but with a file tree, à la GitHub. (2 days ago)
 - **[srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)** - Solve puzzles. Learn CUDA. (2 days ago)
 - **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (4 days ago)
 - **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (6 days ago)
-- **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (1 week ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (10 months ago)
