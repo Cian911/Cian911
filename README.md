@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.0.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0) (2 days ago)
+- [kubeflow/spark-operator @ v2.0.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.0.0) (3 days ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (1 month ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (11 months ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav)** - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
-- **[srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)** - Solve puzzles. Learn CUDA. (1 day ago)
-- **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (3 days ago)
-- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (5 days ago)
+- **[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav)** - A git diff pager based on delta but with a file tree, à la GitHub. (2 days ago)
+- **[srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)** - Solve puzzles. Learn CUDA. (2 days ago)
+- **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (4 days ago)
+- **[DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)** - Flipper Zero Unleashed Firmware (6 days ago)
 - **[satmihir/fair](https://github.com/satmihir/fair)** - A Go library for serving resources fairly (1 week ago)
 
 #### 📄 Latest posts
