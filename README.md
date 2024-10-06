@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (5 days ago)
+- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (6 days ago)
 - **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (1 week ago)
 - **[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav)** - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 - **[srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)** - Solve puzzles. Learn CUDA. (1 week ago)
-- **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (1 week ago)
+- **[Team-Resurgent/Modxo](https://github.com/Team-Resurgent/Modxo)** (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (10 months ago)
