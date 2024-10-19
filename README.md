@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)** - Vicious Viper Dotfiles (today)
+- **[MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)** - Catppuccin theme for Hyprland (1 day ago)
+- **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)** - Vicious Viper Dotfiles (1 day ago)
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 weeks ago)
 - **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (3 weeks ago)
 - **[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav)** - A git diff pager based on delta but with a file tree, à la GitHub. (3 weeks ago)
-- **[srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)** - Solve puzzles. Learn CUDA. (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (10 months ago)
