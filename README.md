@@ -17,17 +17,17 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - [kubeflow/spark-operator @ v2.1.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0-rc.0) (1 week ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (2 months ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (1 year ago)
-- [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (1 year ago)
+- [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 years ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (3 years ago)
 
 #### ⭐ Recent Stars
 
 
+- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (today)
 - **[MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)** - Catppuccin theme for Hyprland (2 weeks ago)
 - **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)** - Vicious Viper Dotfiles (2 weeks ago)
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
 - **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (1 month ago)
-- **[dlvhdr/diffnav](https://github.com/dlvhdr/diffnav)** - A git diff pager based on delta but with a file tree, à la GitHub. (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (11 months ago)
