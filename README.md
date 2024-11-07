@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.1.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0-rc.0) (1 week ago)
+- [kubeflow/spark-operator @ v2.1.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0-rc.0) (2 weeks ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (2 months ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (1 year ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 years ago)
@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (2 days ago)
+- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (3 days ago)
 - **[MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)** - Catppuccin theme for Hyprland (2 weeks ago)
 - **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)** - Vicious Viper Dotfiles (2 weeks ago)
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
