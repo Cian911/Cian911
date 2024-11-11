@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (today)
-- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (6 days ago)
+- **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 day ago)
+- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (1 week ago)
 - **[MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)** - Catppuccin theme for Hyprland (3 weeks ago)
 - **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)** - Vicious Viper Dotfiles (3 weeks ago)
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
