@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (today)
 - **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (3 days ago)
 - **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (1 week ago)
 - **[MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)** - Catppuccin theme for Hyprland (3 weeks ago)
 - **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)** - Vicious Viper Dotfiles (3 weeks ago)
-- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (11 months ago)
