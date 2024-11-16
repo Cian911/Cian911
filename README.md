@@ -15,7 +15,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - [kubeflow/spark-operator @ v2.1.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0-rc.0) (3 weeks ago)
-- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (2 months ago)
+- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (3 months ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (1 year ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 years ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (3 years ago)
@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (today)
-- **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (2 days ago)
-- **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (5 days ago)
+- **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (1 day ago)
+- **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (3 days ago)
+- **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (6 days ago)
 - **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (1 week ago)
 - **[MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)** - Catppuccin theme for Hyprland (4 weeks ago)
 
