@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (2 days ago)
-- **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (4 days ago)
+- **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (3 days ago)
+- **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (5 days ago)
 - **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 week ago)
-- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (1 week ago)
+- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (2 weeks ago)
 - **[MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)** - Catppuccin theme for Hyprland (1 month ago)
 
 #### 📄 Latest posts
