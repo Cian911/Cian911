@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (today)
 - **[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - This is a repo with links to everything you&#39;d ever want to learn about data engineering (2 days ago)
 - **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (1 week ago)
 - **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (1 week ago)
 - **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 week ago)
-- **[altera-al/project-sid](https://github.com/altera-al/project-sid)** (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
