@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.1.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0-rc.0) (4 weeks ago)
+- [kubeflow/spark-operator @ v2.1.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0-rc.0) (1 month ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (3 months ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (1 year ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 years ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (today)
-- **[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - This is a repo with links to everything you&#39;d ever want to learn about data engineering (2 days ago)
+- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (1 day ago)
+- **[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - This is a repo with links to everything you&#39;d ever want to learn about data engineering (3 days ago)
 - **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (1 week ago)
 - **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (1 week ago)
 - **[MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)** - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 week ago)
