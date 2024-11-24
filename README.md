@@ -23,9 +23,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)** - A simple Raspberry Pi Kiosk app (today)
-- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (1 day ago)
-- **[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - This is a repo with links to everything you&#39;d ever want to learn about data engineering (3 days ago)
+- **[geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)** - A simple Raspberry Pi Kiosk app (1 day ago)
+- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (2 days ago)
+- **[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - This is a repo with links to everything you&#39;d ever want to learn about data engineering (4 days ago)
 - **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (1 week ago)
 - **[rose-pine/tmux](https://github.com/rose-pine/tmux)** - Soho vibes for tmux (1 week ago)
 
