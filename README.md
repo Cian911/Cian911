@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (4 days ago)
-- **[geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)** - A simple Raspberry Pi Kiosk app (1 week ago)
+- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (5 days ago)
+- **[geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)** - A simple Raspberry Pi Kiosk app (2 weeks ago)
 - **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (2 weeks ago)
 - **[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - This is a repo with links to everything you&#39;d ever want to learn about data engineering (2 weeks ago)
 - **[jesusprubio/up](https://github.com/jesusprubio/up)** - 📶 Troubleshoot problems with your Internet connection (3 weeks ago)
