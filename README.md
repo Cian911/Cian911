@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (today)
-- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (1 day ago)
+- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (1 day ago)
+- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (2 days ago)
 - **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - **[geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)** - A simple Raspberry Pi Kiosk app (2 weeks ago)
 - **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (2 weeks ago)
