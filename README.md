@@ -14,7 +14,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.1.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0) (today)
+- [kubeflow/spark-operator @ v2.1.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0) (1 day ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (3 months ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (1 year ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 years ago)
@@ -23,8 +23,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (1 day ago)
-- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (2 days ago)
+- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (2 days ago)
+- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (3 days ago)
 - **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - **[geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)** - A simple Raspberry Pi Kiosk app (2 weeks ago)
 - **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (2 weeks ago)
