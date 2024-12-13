@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[Azure/placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins)** (today)
 - **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (3 days ago)
 - **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (4 days ago)
 - **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - **[geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)** - A simple Raspberry Pi Kiosk app (2 weeks ago)
-- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Mirror of https://git.ffmpeg.org/ffmpeg.git (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
