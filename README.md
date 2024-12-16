@@ -14,8 +14,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.1.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0) (4 days ago)
-- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (3 months ago)
+- [kubeflow/spark-operator @ v2.1.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0) (5 days ago)
+- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (4 months ago)
 - [Cian911/gomerge @ 3.3.0](https://github.com/Cian911/gomerge/releases/tag/3.3.0) (1 year ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 years ago)
 - [Cian911/vim-cadence @ 0.0.3](https://github.com/Cian911/vim-cadence/releases/tag/0.0.3) (3 years ago)
@@ -23,11 +23,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins)** - Repository for out-of-tree scheduler plugins based on scheduler framework. (1 day ago)
-- **[Azure/placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins)** (2 days ago)
-- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (5 days ago)
-- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (6 days ago)
-- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
+- **[kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins)** - Repository for out-of-tree scheduler plugins based on scheduler framework. (2 days ago)
+- **[Azure/placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins)** (3 days ago)
+- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (6 days ago)
+- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (1 week ago)
+- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
