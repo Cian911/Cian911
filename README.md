@@ -26,8 +26,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins)** - Repository for out-of-tree scheduler plugins based on scheduler framework. (1 week ago)
 - **[Azure/placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins)** (1 week ago)
 - **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (1 week ago)
-- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (1 week ago)
-- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
+- **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (2 weeks ago)
+- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
