@@ -23,10 +23,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[shurcooL/githubv4](https://github.com/shurcooL/githubv4)** - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql). (1 day ago)
+- **[shurcooL/githubv4](https://github.com/shurcooL/githubv4)** - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql). (2 days ago)
 - **[kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins)** - Repository for out-of-tree scheduler plugins based on scheduler framework. (2 weeks ago)
 - **[Azure/placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins)** (2 weeks ago)
-- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (2 weeks ago)
+- **[yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo)** (3 weeks ago)
 - **[skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust)** - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (3 weeks ago)
 
 #### 📄 Latest posts
