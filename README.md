@@ -25,7 +25,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[Jarnsen/ha-xsense-component_test](https://github.com/Jarnsen/ha-xsense-component_test)** - HACS Integration for X-Sense devices (1 week ago)
 - **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (1 week ago)
 - **[shurcooL/githubv4](https://github.com/shurcooL/githubv4)** - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql). (2 weeks ago)
-- **[kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins)** - Repository for out-of-tree scheduler plugins based on scheduler framework. (4 weeks ago)
+- **[kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins)** - Repository for out-of-tree scheduler plugins based on scheduler framework. (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
