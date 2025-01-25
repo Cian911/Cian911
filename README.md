@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (1 day ago)
 - **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** (4 days ago)
-- **[isd-project/isd](https://github.com/isd-project/isd)** - isd (interactive systemd) — a better way to work with systemd units (5 days ago)
+- **[isd-project/isd](https://github.com/isd-project/isd)** - isd (interactive systemd) – a better way to work with systemd units (5 days ago)
 - **[sejjy/hyprrice](https://github.com/sejjy/hyprrice)** - A minimal Hyprland configuration 💻 (2 weeks ago)
 - **[Jarnsen/ha-xsense-component_test](https://github.com/Jarnsen/ha-xsense-component_test)** - HACS Integration for X-Sense devices (3 weeks ago)
 
