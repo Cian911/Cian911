@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (4 days ago)
+- **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (1 day ago)
+- **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (5 days ago)
 - **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** (1 week ago)
 - **[isd-project/isd](https://github.com/isd-project/isd)** - isd (interactive systemd) – a better way to work with systemd units (1 week ago)
 - **[sejjy/hyprrice](https://github.com/sejjy/hyprrice)** - A minimal Hyprland configuration 💻 (3 weeks ago)
-- **[Jarnsen/ha-xsense-component_test](https://github.com/Jarnsen/ha-xsense-component_test)** - HACS Integration for X-Sense devices (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
