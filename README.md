@@ -14,15 +14,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (4 weeks ago)
+- [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (1 month ago)
 - [kubeflow/spark-operator @ v2.1.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0) (1 month ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (5 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (1 day ago)
-- **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (5 days ago)
+- **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (2 days ago)
+- **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (6 days ago)
 - **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** (1 week ago)
 - **[isd-project/isd](https://github.com/isd-project/isd)** - isd (interactive systemd) – a better way to work with systemd units (1 week ago)
 - **[sejjy/hyprrice](https://github.com/sejjy/hyprrice)** - A minimal Hyprland configuration 💻 (3 weeks ago)
