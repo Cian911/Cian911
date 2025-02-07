@@ -22,7 +22,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (1 week ago)
-- **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (1 week ago)
+- **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (2 weeks ago)
 - **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** (2 weeks ago)
 - **[isd-project/isd](https://github.com/isd-project/isd)** - isd (interactive systemd) – a better way to work with systemd units (2 weeks ago)
 - **[sejjy/hyprrice](https://github.com/sejjy/hyprrice)** - A minimal Hyprland configuration 💻 (1 month ago)
