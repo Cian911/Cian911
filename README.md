@@ -21,8 +21,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft)** - Minecraft clone from scratch with only OpenGL (6 days ago)
-- **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (3 weeks ago)
+- **[GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft)** - Minecraft clone from scratch with only OpenGL (1 week ago)
+- **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (4 weeks ago)
 - **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (1 month ago)
 - **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** (1 month ago)
 - **[isd-project/isd](https://github.com/isd-project/isd)** - isd (interactive systemd) – a better way to work with systemd units (1 month ago)
