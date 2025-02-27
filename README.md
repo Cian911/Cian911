@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[snowflakedb/gosnowflake](https://github.com/snowflakedb/gosnowflake)** - Go Snowflake Driver (today)
 - **[Sahilb315/AtomixDB](https://github.com/Sahilb315/AtomixDB)** - An persistent relational database built in Go. (today)
 - **[mochman/Bypass_CGNAT](https://github.com/mochman/Bypass_CGNAT)** - Wireguard setup to bypass CGNAT with a VPS (today)
 - **[GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft)** - Minecraft clone from scratch with only OpenGL (1 week ago)
 - **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (1 month ago)
-- **[ffuf/ffuf](https://github.com/ffuf/ffuf)** - Fast web fuzzer written in Go (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
