@@ -21,9 +21,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[snowflakedb/gosnowflake](https://github.com/snowflakedb/gosnowflake)** - Go Snowflake Driver (today)
-- **[Sahilb315/AtomixDB](https://github.com/Sahilb315/AtomixDB)** - An persistent relational database built in Go. (today)
-- **[mochman/Bypass_CGNAT](https://github.com/mochman/Bypass_CGNAT)** - Wireguard setup to bypass CGNAT with a VPS (today)
+- **[snowflakedb/gosnowflake](https://github.com/snowflakedb/gosnowflake)** - Go Snowflake Driver (1 day ago)
+- **[Sahilb315/AtomixDB](https://github.com/Sahilb315/AtomixDB)** - An persistent relational database built in Go. (1 day ago)
+- **[mochman/Bypass_CGNAT](https://github.com/mochman/Bypass_CGNAT)** - Wireguard setup to bypass CGNAT with a VPS (1 day ago)
 - **[GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft)** - Minecraft clone from scratch with only OpenGL (1 week ago)
 - **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (1 month ago)
 
