@@ -14,16 +14,16 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (1 month ago)
+- [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (2 months ago)
 - [kubeflow/spark-operator @ v2.1.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.1.0) (2 months ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (6 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[snowflakedb/gosnowflake](https://github.com/snowflakedb/gosnowflake)** - Go Snowflake Driver (1 day ago)
-- **[Sahilb315/AtomixDB](https://github.com/Sahilb315/AtomixDB)** - An persistent relational database built in Go. (1 day ago)
-- **[mochman/Bypass_CGNAT](https://github.com/mochman/Bypass_CGNAT)** - Wireguard setup to bypass CGNAT with a VPS (1 day ago)
+- **[snowflakedb/gosnowflake](https://github.com/snowflakedb/gosnowflake)** - Go Snowflake Driver (2 days ago)
+- **[Sahilb315/AtomixDB](https://github.com/Sahilb315/AtomixDB)** - An persistent relational database built in Go. (2 days ago)
+- **[mochman/Bypass_CGNAT](https://github.com/mochman/Bypass_CGNAT)** - Wireguard setup to bypass CGNAT with a VPS (2 days ago)
 - **[GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft)** - Minecraft clone from scratch with only OpenGL (1 week ago)
 - **[huggingface/open-r1](https://github.com/huggingface/open-r1)** - Fully open reproduction of DeepSeek-R1 (1 month ago)
 
