@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[stjet/ming-wm](https://github.com/stjet/ming-wm)** - Linux keyboard-operated window manager (6 days ago)
-- **[grimdoomer/Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate)** - Software only hypervisor exploit for Xbox 360 (2 weeks ago)
+- **[CodeFoodPixels/robovac](https://github.com/CodeFoodPixels/robovac)** - Add a Eufy RoboVac easily to Home Assistant (1 day ago)
+- **[stjet/ming-wm](https://github.com/stjet/ming-wm)** - Linux keyboard-operated window manager (1 week ago)
+- **[grimdoomer/Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate)** - Software only hypervisor exploit for Xbox 360 (3 weeks ago)
 - **[snowflakedb/gosnowflake](https://github.com/snowflakedb/gosnowflake)** - Go Snowflake Driver (3 weeks ago)
 - **[Sahilb315/AtomixDB](https://github.com/Sahilb315/AtomixDB)** - An persistent relational database built in Go. (3 weeks ago)
-- **[mochman/Bypass_CGNAT](https://github.com/mochman/Bypass_CGNAT)** - Wireguard setup to bypass CGNAT with a VPS (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
