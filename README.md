@@ -21,9 +21,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)** - Damn Vulnerable MCP Server (2 days ago)
-- **[ttroy50/pyephember](https://github.com/ttroy50/pyephember)** - Simple monitor script for the EPH Controls Ember heating system (2 days ago)
-- **[jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation)** - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec (5 days ago)
+- **[harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)** - Damn Vulnerable MCP Server (3 days ago)
+- **[ttroy50/pyephember](https://github.com/ttroy50/pyephember)** - Simple monitor script for the EPH Controls Ember heating system (3 days ago)
+- **[jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation)** - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec (6 days ago)
 - **[TuanKiri/weather-mcp-server](https://github.com/TuanKiri/weather-mcp-server)** - A lightweight Model Context Protocol (MCP) server that enables AI assistants like Claude to retrieve and interpret real-time weather data. What makes it popular: (1 week ago)
 - **[luskaner/ageLANServer](https://github.com/luskaner/ageLANServer)** - Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline (2 weeks ago)
 
