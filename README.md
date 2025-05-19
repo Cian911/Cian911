@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[skift-org/vaev](https://github.com/skift-org/vaev)** - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine (today)
 - **[joexbayer/RetrOS-32](https://github.com/joexbayer/RetrOS-32)** - A x86 32bit Hobby Operatingsystem with graphics, multitasking, networking and 32bit C-Compiler for i386 architecture. (3 weeks ago)
 - **[Limych/ha-average](https://github.com/Limych/ha-average)** - Average Sensor for Home Assistant (3 weeks ago)
-- **[melancholytron/MatrixQtt](https://github.com/melancholytron/MatrixQtt)** - Mqtt as a matrix screensaver (3 weeks ago)
+- **[melancholytron/MatrixQtt](https://github.com/melancholytron/MatrixQtt)** - Mqtt as a matrix screensaver (4 weeks ago)
 - **[harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)** - Damn Vulnerable MCP Server (1 month ago)
-- **[ttroy50/pyephember](https://github.com/ttroy50/pyephember)** - Simple monitor script for the EPH Controls Ember heating system (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (1 year ago)
