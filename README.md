@@ -14,18 +14,18 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.2.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.2.0) (2 weeks ago)
+- [kubeflow/spark-operator @ v2.2.1](https://github.com/kubeflow/spark-operator/releases/tag/v2.2.1) (1 day ago)
 - [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (5 months ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (10 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[sidoh/esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub)** - Replacement for a Milight/LimitlessLED hub hosted on an ESP8266 (today)
-- **[gabest11/esphome-cc1101](https://github.com/gabest11/esphome-cc1101)** (1 week ago)
-- **[dbuezas/esphome-remote_receiver-oscilloscope](https://github.com/dbuezas/esphome-remote_receiver-oscilloscope)** (1 week ago)
-- **[dbuezas/esphome-cc1101](https://github.com/dbuezas/esphome-cc1101)** (1 week ago)
-- **[unixb0y/CPY-CC1101](https://github.com/unixb0y/CPY-CC1101)** - CPY-CC1101 a CircuitPython library for CC1101 RF Transceivers. I use it with a CC1101 Arduino module connected trough SPI to an Adafruit M4 Express. (1 week ago)
+- **[krustowski/rou2exOS](https://github.com/krustowski/rou2exOS)** - A second iteration of the DOS-like hobby OS. (1 week ago)
+- **[OJ/gobuster](https://github.com/OJ/gobuster)** - Directory/File, DNS and VHost busting tool written in Go (1 week ago)
+- **[sidoh/esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub)** - Replacement for a Milight/LimitlessLED hub hosted on an ESP8266 (1 week ago)
+- **[gabest11/esphome-cc1101](https://github.com/gabest11/esphome-cc1101)** (3 weeks ago)
+- **[dbuezas/esphome-remote_receiver-oscilloscope](https://github.com/dbuezas/esphome-remote_receiver-oscilloscope)** (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
