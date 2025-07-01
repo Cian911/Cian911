@@ -22,7 +22,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - **[kelindar/event](https://github.com/kelindar/event)** - Simple internal event bus for Go applications (1 day ago)
-- **[krustowski/rou2exOS](https://github.com/krustowski/rou2exOS)** - A second iteration of the DOS-like hobby OS. (1 week ago)
+- **[krustowski/rou2exOS](https://github.com/krustowski/rou2exOS)** - A second iteration of the DOS-inspired hobby OS. (1 week ago)
 - **[OJ/gobuster](https://github.com/OJ/gobuster)** - Directory/File, DNS and VHost busting tool written in Go (2 weeks ago)
 - **[sidoh/esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub)** - Replacement for a Milight/LimitlessLED hub hosted on an ESP8266 (2 weeks ago)
 - **[gabest11/esphome-cc1101](https://github.com/gabest11/esphome-cc1101)** (3 weeks ago)
