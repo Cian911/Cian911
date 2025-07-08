@@ -21,7 +21,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM)** - A beautiful window manager for x11 (3 days ago)
+- **[BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM)** - A beautiful window manager for x11 (4 days ago)
 - **[kelindar/event](https://github.com/kelindar/event)** - Simple internal event bus for Go applications (1 week ago)
 - **[krustowski/rou2exOS](https://github.com/krustowski/rou2exOS)** - A second iteration of the DOS-inspired hobby OS. (2 weeks ago)
 - **[OJ/gobuster](https://github.com/OJ/gobuster)** - Directory/File, DNS and VHost busting tool written in Go (3 weeks ago)
