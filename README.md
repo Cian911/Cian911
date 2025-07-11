@@ -25,7 +25,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[rbaron/b-parasite](https://github.com/rbaron/b-parasite)** - 🌱💧 An open source DIY soil moisture sensor (3 days ago)
 - **[BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM)** - A beautiful window manager for x11 (1 week ago)
 - **[kelindar/event](https://github.com/kelindar/event)** - Simple internal event bus for Go applications (1 week ago)
-- **[krustowski/rou2exOS](https://github.com/krustowski/rou2exOS)** - A second iteration of the DOS-inspired hobby OS. (3 weeks ago)
+- **[krustowski/rou2exOS](https://github.com/krustowski/rou2exOS)** - A second iteration of the DOS-friendly hobby OS. (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
