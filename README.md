@@ -21,8 +21,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - MCP Server for Ghidra (2 days ago)
-- **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title. (3 days ago)
+- **[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - MCP Server for Ghidra (3 days ago)
+- **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title. (4 days ago)
 - **[emakefun/rf-nano](https://github.com/emakefun/rf-nano)** - emakefun arduino nano V3.0 &#43; nrf24L01&#43; (2 weeks ago)
 - **[jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet)** - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API. (3 weeks ago)
 - **[rbaron/b-parasite](https://github.com/rbaron/b-parasite)** - 🌱💧 An open source DIY soil moisture sensor (3 weeks ago)
