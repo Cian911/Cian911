@@ -14,18 +14,18 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (1 week ago)
+- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (2 weeks ago)
 - [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (7 months ago)
 - [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (11 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - MCP Server for Ghidra (4 days ago)
-- **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title. (5 days ago)
+- **[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - MCP Server for Ghidra (5 days ago)
+- **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title. (6 days ago)
 - **[emakefun/rf-nano](https://github.com/emakefun/rf-nano)** - emakefun arduino nano V3.0 &#43; nrf24L01&#43; (2 weeks ago)
 - **[jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet)** - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API. (3 weeks ago)
-- **[rbaron/b-parasite](https://github.com/rbaron/b-parasite)** - 🌱💧 An open source DIY soil moisture sensor (3 weeks ago)
+- **[rbaron/b-parasite](https://github.com/rbaron/b-parasite)** - 🌱💧 An open source DIY soil moisture sensor (4 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
