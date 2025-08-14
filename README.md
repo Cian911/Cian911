@@ -21,9 +21,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[plutov/practice-go](https://github.com/plutov/practice-go)** - Practice Go: a collection of Go programming challenges (2 days ago)
-- **[FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)** - FFMPEG Assembly Language Lessons (6 days ago)
-- **[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - MCP Server for Ghidra (1 week ago)
+- **[plutov/practice-go](https://github.com/plutov/practice-go)** - Practice Go: a collection of Go programming challenges (3 days ago)
+- **[FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)** - FFMPEG Assembly Language Lessons (1 week ago)
+- **[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - MCP Server for Ghidra (2 weeks ago)
 - **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title. (2 weeks ago)
 - **[emakefun/rf-nano](https://github.com/emakefun/rf-nano)** - emakefun arduino nano V3.0 &#43; nrf24L01&#43; (3 weeks ago)
 
