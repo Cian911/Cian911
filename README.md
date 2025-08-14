@@ -21,11 +21,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)** - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (today)
 - **[plutov/practice-go](https://github.com/plutov/practice-go)** - Practice Go: a collection of Go programming challenges (3 days ago)
 - **[FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)** - FFMPEG Assembly Language Lessons (1 week ago)
 - **[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - MCP Server for Ghidra (2 weeks ago)
 - **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title. (2 weeks ago)
-- **[emakefun/rf-nano](https://github.com/emakefun/rf-nano)** - emakefun arduino nano V3.0 &#43; nrf24L01&#43; (3 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
