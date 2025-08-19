@@ -14,16 +14,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (3 weeks ago)
+- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (4 weeks ago)
 - [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (7 months ago)
-- [Cian911/switchboard @ v1.0.1](https://github.com/Cian911/switchboard/releases/tag/v1.0.1) (1 year ago)
 
 #### ⭐ Recent Stars
 
 
-- **[rhasspy/piper-sample-generator](https://github.com/rhasspy/piper-sample-generator)** - Generate samples using Piper to train wake word models (3 days ago)
-- **[NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)** - A Flow-based Generative Network for Speech Synthesis (4 days ago)
-- **[dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)** - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (4 days ago)
+- **[rhasspy/piper-sample-generator](https://github.com/rhasspy/piper-sample-generator)** - Generate samples using Piper to train wake word models (4 days ago)
+- **[NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)** - A Flow-based Generative Network for Speech Synthesis (5 days ago)
+- **[dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)** - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (5 days ago)
 - **[plutov/practice-go](https://github.com/plutov/practice-go)** - Practice Go: a collection of Go programming challenges (1 week ago)
 - **[FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)** - FFMPEG Assembly Language Lessons (1 week ago)
 
