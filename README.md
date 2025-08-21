@@ -14,17 +14,17 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (4 weeks ago)
+- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (1 month ago)
 - [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (7 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[rhasspy/piper-sample-generator](https://github.com/rhasspy/piper-sample-generator)** - Generate samples using Piper to train wake word models (5 days ago)
-- **[NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)** - A Flow-based Generative Network for Speech Synthesis (6 days ago)
-- **[dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)** - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (6 days ago)
+- **[rhasspy/piper-sample-generator](https://github.com/rhasspy/piper-sample-generator)** - Generate samples using Piper to train wake word models (6 days ago)
+- **[NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)** - A Flow-based Generative Network for Speech Synthesis (1 week ago)
+- **[dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)** - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (1 week ago)
 - **[plutov/practice-go](https://github.com/plutov/practice-go)** - Practice Go: a collection of Go programming challenges (1 week ago)
-- **[FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)** - FFMPEG Assembly Language Lessons (1 week ago)
+- **[FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)** - FFMPEG Assembly Language Lessons (2 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
