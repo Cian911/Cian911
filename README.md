@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[rhasspy/piper-sample-generator](https://github.com/rhasspy/piper-sample-generator)** - Generate samples using Piper to train wake word models (1 week ago)
 - **[NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)** - A Flow-based Generative Network for Speech Synthesis (1 week ago)
 - **[dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)** - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (1 week ago)
-- **[plutov/practice-go](https://github.com/plutov/practice-go)** - Practice Go: a collection of Go programming challenges (1 week ago)
+- **[plutov/practice-go](https://github.com/plutov/practice-go)** - Practice Go: a collection of Go programming challenges (2 weeks ago)
 - **[FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)** - FFMPEG Assembly Language Lessons (2 weeks ago)
 
 #### 📄 Latest posts
