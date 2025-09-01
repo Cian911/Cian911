@@ -20,7 +20,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing. (4 days ago)
+- **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (4 days ago)
 - **[Thokoop/billy-b-assistant](https://github.com/Thokoop/billy-b-assistant)** (5 days ago)
 - **[Gezine/BD-JB-1250](https://github.com/Gezine/BD-JB-1250)** - BD-JB for up to PS4 12.50 (6 days ago)
 - **[geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)** - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  (1 week ago)
