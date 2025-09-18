@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)**
 - **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title.
 - **[Cian911/go-ranger](https://github.com/Cian911/go-ranger)**
 - **[Cian911/redis-go](https://github.com/Cian911/redis-go)**
 - **[Cian911/grep-go](https://github.com/Cian911/grep-go)**
-- **[Cian911/http-go](https://github.com/Cian911/http-go)**
 
 #### 🚀 Latest releases I've contributed to
 
@@ -21,10 +21,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 
 - **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (3 weeks ago)
+- **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)** (3 weeks ago)
 - **[Thokoop/billy-b-assistant](https://github.com/Thokoop/billy-b-assistant)** (3 weeks ago)
 - **[Gezine/BD-JB-1250](https://github.com/Gezine/BD-JB-1250)** - BD-JB for up to PS4 12.50 (3 weeks ago)
 - **[geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)** - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  (3 weeks ago)
-- **[rhasspy/piper-sample-generator](https://github.com/rhasspy/piper-sample-generator)** - Generate samples using Piper to train wake word models (1 month ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
