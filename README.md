@@ -20,11 +20,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (today)
+- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (today)
 - **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (3 weeks ago)
 - **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)** (3 weeks ago)
 - **[Thokoop/billy-b-assistant](https://github.com/Thokoop/billy-b-assistant)** (3 weeks ago)
-- **[Gezine/BD-JB-1250](https://github.com/Gezine/BD-JB-1250)** - BD-JB for up to PS4 12.50 (4 weeks ago)
-- **[geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)** - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  (4 weeks ago)
 
 #### 📄 Latest posts
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
