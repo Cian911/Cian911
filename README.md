@@ -20,9 +20,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (4 days ago)
-- **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (4 days ago)
-- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (4 days ago)
+- **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (5 days ago)
+- **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (5 days ago)
+- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (5 days ago)
 - **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (1 month ago)
 - **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)** (1 month ago)
 
