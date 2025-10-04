@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project.
 - **[Cian911/piper1-gpl](https://github.com/Cian911/piper1-gpl)**
 - **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)**
 - **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title.
 - **[Cian911/go-ranger](https://github.com/Cian911/go-ranger)**
-- **[Cian911/redis-go](https://github.com/Cian911/redis-go)**
 
 #### 🚀 Latest releases I've contributed to
 
