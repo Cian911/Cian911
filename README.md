@@ -20,15 +20,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (1 week ago)
-- **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (1 week ago)
-- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (1 week ago)
+- **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (2 weeks ago)
+- **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (2 weeks ago)
+- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (2 weeks ago)
 - **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (1 month ago)
 - **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)** (1 month ago)
 
 #### 📄 Latest posts
-- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (2 days ago)
-- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (2 days ago)
+- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (3 days ago)
+- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (3 days ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
