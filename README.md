@@ -14,13 +14,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (2 months ago)
+- [kubeflow/spark-operator @ v2.3.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.3.0) (3 months ago)
 - [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (9 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (today)
+- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (1 day ago)
 - **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (3 weeks ago)
 - **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (3 weeks ago)
 - **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (3 weeks ago)
