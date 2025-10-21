@@ -20,10 +20,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (1 day ago)
-- **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (3 weeks ago)
-- **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (3 weeks ago)
-- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (3 weeks ago)
+- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (2 days ago)
+- **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (4 weeks ago)
+- **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (4 weeks ago)
+- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (4 weeks ago)
 - **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (1 month ago)
 
 #### 📄 Latest posts
