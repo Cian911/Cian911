@@ -20,11 +20,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote)** - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant (today)
+- **[w1gx/fireplace-remote](https://github.com/w1gx/fireplace-remote)** - Skytech Fireplace remote analysis and simulation with gnuradio companion (today)
 - **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (4 days ago)
 - **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (1 month ago)
 - **[OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)** - Fast and local neural text-to-speech engine (1 month ago)
-- **[rhasspy/piper](https://github.com/rhasspy/piper)** - A fast, local neural text to speech system (1 month ago)
-- **[renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)** - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (1 month ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (2 weeks ago)
