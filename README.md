@@ -20,15 +20,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[maximhq/bifrost](https://github.com/maximhq/bifrost)** - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (today)
-- **[PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote)** - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant (1 day ago)
-- **[w1gx/fireplace-remote](https://github.com/w1gx/fireplace-remote)** - Skytech Fireplace remote analysis and simulation with gnuradio companion (1 day ago)
-- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (5 days ago)
+- **[maximhq/bifrost](https://github.com/maximhq/bifrost)** - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (1 day ago)
+- **[PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote)** - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant (2 days ago)
+- **[w1gx/fireplace-remote](https://github.com/w1gx/fireplace-remote)** - Skytech Fireplace remote analysis and simulation with gnuradio companion (2 days ago)
+- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (6 days ago)
 - **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (1 month ago)
 
 #### 📄 Latest posts
-- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (2 weeks ago)
-- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (2 weeks ago)
+- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (3 weeks ago)
+- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (3 weeks ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
