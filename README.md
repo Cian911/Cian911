@@ -20,9 +20,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[maximhq/bifrost](https://github.com/maximhq/bifrost)** - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (4 days ago)
-- **[PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote)** - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant (5 days ago)
-- **[w1gx/fireplace-remote](https://github.com/w1gx/fireplace-remote)** - Skytech Fireplace remote analysis and simulation with gnuradio companion (5 days ago)
+- **[maximhq/bifrost](https://github.com/maximhq/bifrost)** - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (5 days ago)
+- **[PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote)** - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant (6 days ago)
+- **[w1gx/fireplace-remote](https://github.com/w1gx/fireplace-remote)** - Skytech Fireplace remote analysis and simulation with gnuradio companion (6 days ago)
 - **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis. (1 week ago)
 - **[thorstenMueller/Audio-to-Voice-Dataset](https://github.com/thorstenMueller/Audio-to-Voice-Dataset)** - Create an LJSpeech structured voice dataset on wave input (1 month ago)
 
