@@ -20,11 +20,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)** - Cross-Platform SDR Software (today)
+- **[trailofbits/anamorpher](https://github.com/trailofbits/anamorpher)** - image scaling attacks for multi-modal prompt injection (today)
 - **[block/goose](https://github.com/block/goose)** - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 day ago)
 - **[IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)** - A monospaced programming font inspired by the Minecraft typeface (2 days ago)
 - **[jopohl/urh](https://github.com/jopohl/urh)** - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss (3 days ago)
-- **[maximhq/bifrost](https://github.com/maximhq/bifrost)** - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (1 week ago)
-- **[PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote)** - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant (1 week ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (4 weeks ago)
