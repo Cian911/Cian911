@@ -20,15 +20,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)** - Cross-Platform SDR Software (today)
-- **[trailofbits/anamorpher](https://github.com/trailofbits/anamorpher)** - image scaling attacks for multi-modal prompt injection (today)
-- **[block/goose](https://github.com/block/goose)** - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 day ago)
-- **[IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)** - A monospaced programming font inspired by the Minecraft typeface (2 days ago)
-- **[jopohl/urh](https://github.com/jopohl/urh)** - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss (3 days ago)
+- **[AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)** - Cross-Platform SDR Software (1 day ago)
+- **[trailofbits/anamorpher](https://github.com/trailofbits/anamorpher)** - image scaling attacks for multi-modal prompt injection (1 day ago)
+- **[block/goose](https://github.com/block/goose)** - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (2 days ago)
+- **[IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)** - A monospaced programming font inspired by the Minecraft typeface (3 days ago)
+- **[jopohl/urh](https://github.com/jopohl/urh)** - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss (4 days ago)
 
 #### 📄 Latest posts
-- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (4 weeks ago)
-- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (4 weeks ago)
+- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (1 month ago)
+- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (1 month ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
