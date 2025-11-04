@@ -7,7 +7,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 👨‍💻 Repositories I created recently
 - **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis.
 - **[Cian911/piper1-gpl](https://github.com/Cian911/piper1-gpl)**
-- **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)**
+- **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)** - Build your own ESP32 powered Billy Bass Fish!
 - **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title.
 - **[Cian911/go-ranger](https://github.com/Cian911/go-ranger)**
 
