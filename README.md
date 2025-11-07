@@ -20,11 +20,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[miek/inspectrum](https://github.com/miek/inspectrum)** - Radio signal analyser (2 days ago)
-- **[astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide)** - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go (2 days ago)
-- **[AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)** - Cross-Platform SDR Software (4 days ago)
-- **[trailofbits/anamorpher](https://github.com/trailofbits/anamorpher)** - image scaling attacks for multi-modal prompt injection (4 days ago)
-- **[block/goose](https://github.com/block/goose)** - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (5 days ago)
+- **[wingrunr21/esphome-custom-components](https://github.com/wingrunr21/esphome-custom-components)** - nRF24L01 and Hunter Douglas Platinum controller ESPHome components (today)
+- **[Yveaux/NRF24_Sniffer](https://github.com/Yveaux/NRF24_Sniffer)** - Sniffer for Nordic NRF24L01&#43; modules with MySensors support (today)
+- **[miek/inspectrum](https://github.com/miek/inspectrum)** - Radio signal analyser (3 days ago)
+- **[astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide)** - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go (3 days ago)
+- **[AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)** - Cross-Platform SDR Software (5 days ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (1 month ago)
