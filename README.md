@@ -20,11 +20,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)** - 🐬 Feature-rich, stable and customizable Flipper Firmware (1 day ago)
-- **[wingrunr21/esphome-custom-components](https://github.com/wingrunr21/esphome-custom-components)** - nRF24L01 and Hunter Douglas Platinum controller ESPHome components (1 day ago)
-- **[Yveaux/NRF24_Sniffer](https://github.com/Yveaux/NRF24_Sniffer)** - Sniffer for Nordic NRF24L01&#43; modules with MySensors support (1 day ago)
-- **[miek/inspectrum](https://github.com/miek/inspectrum)** - Radio signal analyser (4 days ago)
-- **[astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide)** - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go (4 days ago)
+- **[Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)** - 🐬 Feature-rich, stable and customizable Flipper Firmware (2 days ago)
+- **[wingrunr21/esphome-custom-components](https://github.com/wingrunr21/esphome-custom-components)** - nRF24L01 and Hunter Douglas Platinum controller ESPHome components (2 days ago)
+- **[Yveaux/NRF24_Sniffer](https://github.com/Yveaux/NRF24_Sniffer)** - Sniffer for Nordic NRF24L01&#43; modules with MySensors support (2 days ago)
+- **[miek/inspectrum](https://github.com/miek/inspectrum)** - Radio signal analyser (5 days ago)
+- **[astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide)** - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go (5 days ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (1 month ago)
