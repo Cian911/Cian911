@@ -14,17 +14,16 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubeflow/spark-operator @ v2.4.0-rc.0](https://github.com/kubeflow/spark-operator/releases/tag/v2.4.0-rc.0) (1 day ago)
 - [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (10 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox)** - Random scripts for generating Flipper data files. (1 day ago)
-- **[go-playground/validator](https://github.com/go-playground/validator)** - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 day ago)
-- **[Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)** - 🐬 Feature-rich, stable and customizable Flipper Firmware (4 days ago)
-- **[wingrunr21/esphome-custom-components](https://github.com/wingrunr21/esphome-custom-components)** - nRF24L01 and Hunter Douglas Platinum controller ESPHome components (4 days ago)
-- **[Yveaux/NRF24_Sniffer](https://github.com/Yveaux/NRF24_Sniffer)** - Sniffer for Nordic NRF24L01&#43; modules with MySensors support (4 days ago)
+- **[evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox)** - Random scripts for generating Flipper data files. (2 days ago)
+- **[go-playground/validator](https://github.com/go-playground/validator)** - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (2 days ago)
+- **[Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)** - 🐬 Feature-rich, stable and customizable Flipper Firmware (5 days ago)
+- **[wingrunr21/esphome-custom-components](https://github.com/wingrunr21/esphome-custom-components)** - nRF24L01 and Hunter Douglas Platinum controller ESPHome components (5 days ago)
+- **[Yveaux/NRF24_Sniffer](https://github.com/Yveaux/NRF24_Sniffer)** - Sniffer for Nordic NRF24L01&#43; modules with MySensors support (5 days ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (1 month ago)
