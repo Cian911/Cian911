@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)** - Sql mock driver for golang to test database interactions (3 days ago)
-- **[evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox)** - Random scripts for generating Flipper data files. (5 days ago)
-- **[go-playground/validator](https://github.com/go-playground/validator)** - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (5 days ago)
+- **[nopnop2002/esp-idf-cc1101](https://github.com/nopnop2002/esp-idf-cc1101)** - CC1101 Low-Power Sub-1 GHz RF Transceiver driver for esp-idf (today)
+- **[DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)** - Sql mock driver for golang to test database interactions (4 days ago)
+- **[evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox)** - Random scripts for generating Flipper data files. (6 days ago)
+- **[go-playground/validator](https://github.com/go-playground/validator)** - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (6 days ago)
 - **[Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)** - 🐬 Feature-rich, stable and customizable Flipper Firmware (1 week ago)
-- **[wingrunr21/esphome-custom-components](https://github.com/wingrunr21/esphome-custom-components)** - nRF24L01 and Hunter Douglas Platinum controller ESPHome components (1 week ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (1 month ago)
