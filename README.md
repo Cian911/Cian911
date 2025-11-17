@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/esp32-charlton-jenrick-fireplace-controller](https://github.com/Cian911/esp32-charlton-jenrick-fireplace-controller)**
 - **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis.
 - **[Cian911/piper1-gpl](https://github.com/Cian911/piper1-gpl)**
 - **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)** - Build your own ESP32 powered Billy Bass Fish!
 - **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title.
-- **[Cian911/go-ranger](https://github.com/Cian911/go-ranger)**
 
 #### 🚀 Latest releases I've contributed to
 
@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[espressif/esp-idf](https://github.com/espressif/esp-idf)** - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (today)
-- **[nopnop2002/esp-idf-cc1101](https://github.com/nopnop2002/esp-idf-cc1101)** - CC1101 Low-Power Sub-1 GHz RF Transceiver driver for esp-idf (today)
-- **[DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)** - Sql mock driver for golang to test database interactions (4 days ago)
-- **[evilpete/flipper_toolbox](https://github.com/evilpete/flipper_toolbox)** - Random scripts for generating Flipper data files. (6 days ago)
-- **[go-playground/validator](https://github.com/go-playground/validator)** - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (6 days ago)
+- **[Cian911/esp32-charlton-jenrick-fireplace-controller](https://github.com/Cian911/esp32-charlton-jenrick-fireplace-controller)** (today)
+- **[mfurga/cc1101](https://github.com/mfurga/cc1101)** - Arduino library for CC1101 transceiver. (1 day ago)
+- **[espressif/esp-idf](https://github.com/espressif/esp-idf)** - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (1 day ago)
+- **[nopnop2002/esp-idf-cc1101](https://github.com/nopnop2002/esp-idf-cc1101)** - CC1101 Low-Power Sub-1 GHz RF Transceiver driver for esp-idf (1 day ago)
+- **[DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)** - Sql mock driver for golang to test database interactions (5 days ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (1 month ago)
