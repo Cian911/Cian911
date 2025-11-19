@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[s00500/ESPUI](https://github.com/s00500/ESPUI)** - A simple web user interface library for ESP32 and ESP8266 (1 day ago)
-- **[Cian911/esp32-fireplace-controller](https://github.com/Cian911/esp32-fireplace-controller)** - Reverse engineered remote control using an ESP32 for the Charlton &amp; Jenricks fireplace range. (1 day ago)
-- **[mfurga/cc1101](https://github.com/mfurga/cc1101)** - Arduino library for CC1101 transceiver. (2 days ago)
-- **[espressif/esp-idf](https://github.com/espressif/esp-idf)** - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (2 days ago)
-- **[nopnop2002/esp-idf-cc1101](https://github.com/nopnop2002/esp-idf-cc1101)** - CC1101 Low-Power Sub-1 GHz RF Transceiver driver for esp-idf (2 days ago)
+- **[s00500/ESPUI](https://github.com/s00500/ESPUI)** - A simple web user interface library for ESP32 and ESP8266 (2 days ago)
+- **[Cian911/esp32-fireplace-controller](https://github.com/Cian911/esp32-fireplace-controller)** - Reverse engineered remote control using an ESP32 for the Charlton &amp; Jenricks fireplace range. (2 days ago)
+- **[mfurga/cc1101](https://github.com/mfurga/cc1101)** - Arduino library for CC1101 transceiver. (3 days ago)
+- **[espressif/esp-idf](https://github.com/espressif/esp-idf)** - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (3 days ago)
+- **[nopnop2002/esp-idf-cc1101](https://github.com/nopnop2002/esp-idf-cc1101)** - CC1101 Low-Power Sub-1 GHz RF Transceiver driver for esp-idf (3 days ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (1 month ago)
