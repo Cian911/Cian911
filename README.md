@@ -14,7 +14,6 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### 🚀 Latest releases I've contributed to
 
 
-- [Cian911/gomerge @ 3.4.0](https://github.com/Cian911/gomerge/releases/tag/3.4.0) (1 year ago)
 - [Cian911/bento @ v0.0.1](https://github.com/Cian911/bento/releases/tag/v0.0.1) (2 years ago)
 
 #### ⭐ Recent Stars
