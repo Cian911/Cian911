@@ -26,8 +26,8 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[nopnop2002/esp-idf-cc1101](https://github.com/nopnop2002/esp-idf-cc1101)** - CC1101 Low-Power Sub-1 GHz RF Transceiver driver for esp-idf (1 month ago)
 
 #### 📄 Latest posts
-- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (2 months ago)
-- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (2 months ago)
+- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (3 months ago)
+- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (3 months ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
