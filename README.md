@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
+- **[Cian911/torrent-go](https://github.com/Cian911/torrent-go)**
 - **[Cian911/esp32-fireplace-controller](https://github.com/Cian911/esp32-fireplace-controller)** - Reverse engineered remote control using an ESP32 for the Charlton &amp; Jenricks fireplace range.
 - **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis.
 - **[Cian911/piper1-gpl](https://github.com/Cian911/piper1-gpl)**
 - **[Cian911/billy-ai](https://github.com/Cian911/billy-ai)** - Build your own ESP32 powered Billy Bass Fish!
-- **[Cian911/ir-smart-remote](https://github.com/Cian911/ir-smart-remote)** - The accompanying code related to the Youtube video of the same title.
 
 #### 🚀 Latest releases I've contributed to
 
