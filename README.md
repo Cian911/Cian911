@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)** - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (4 days ago)
+- **[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)** - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (5 days ago)
 - **[jeanot1314/Magic_Frame](https://github.com/jeanot1314/Magic_Frame)** - Build your own touch screen using light triangulation and CIS sensor! (1 week ago)
 - **[s00500/ESPUI](https://github.com/s00500/ESPUI)** - A simple web user interface library for ESP32 and ESP8266 (1 month ago)
 - **[Cian911/esp32-fireplace-controller](https://github.com/Cian911/esp32-fireplace-controller)** - Reverse engineered remote control using an ESP32 for the Charlton &amp; Jenricks fireplace range. (1 month ago)
-- **[mfurga/cc1101](https://github.com/mfurga/cc1101)** - Arduino library for CC1101 transceiver. (1 month ago)
+- **[mfurga/cc1101](https://github.com/mfurga/cc1101)** - Arduino library for CC1101 transceiver. (2 months ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (3 months ago)
