@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[homeassistant-ai/skills](https://github.com/homeassistant-ai/skills)** - Home Assistant skills for agents (today)
+- **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** - The Unofficial and Awesome Home Assistant MCP Server (today)
 - **[edmund-io/edmunds-claude-code](https://github.com/edmund-io/edmunds-claude-code)** (5 days ago)
 - **[Cian911/zimaboard-monitor](https://github.com/Cian911/zimaboard-monitor)** - ESP32-based hardware monitor for CasaOS systems with OLED display, LED indicators, and Home Assistant integration via MQTT. (3 weeks ago)
 - **[0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources)** - A curated list of Multiplayer Game Network Programming Resources (3 weeks ago)
-- **[xiaonanln/goworld](https://github.com/xiaonanln/goworld)** - Scalable Distributed Game Server Engine with Hot Swapping in Golang (3 weeks ago)
-- **[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** - Official Claude Code compound engineering plugin (3 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (5 months ago)
