@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (1 day ago)
-- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (1 day ago)
-- **[homeassistant-ai/skills](https://github.com/homeassistant-ai/skills)** - Home Assistant skills for agents (6 days ago)
-- **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** - The Unofficial and Awesome Home Assistant MCP Server (6 days ago)
-- **[edmund-io/edmunds-claude-code](https://github.com/edmund-io/edmunds-claude-code)** (1 week ago)
+- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (1 day ago)
+- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (2 days ago)
+- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (2 days ago)
+- **[homeassistant-ai/skills](https://github.com/homeassistant-ai/skills)** - Home Assistant skills for agents (1 week ago)
+- **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** - The Unofficial and Awesome Home Assistant MCP Server (1 week ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (5 months ago)
