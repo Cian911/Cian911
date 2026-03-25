@@ -19,9 +19,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (1 day ago)
-- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (2 days ago)
-- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (2 days ago)
+- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (2 days ago)
+- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (3 days ago)
+- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (3 days ago)
 - **[homeassistant-ai/skills](https://github.com/homeassistant-ai/skills)** - Home Assistant skills for agents (1 week ago)
 - **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** - The Unofficial and Awesome Home Assistant MCP Server (1 week ago)
 
