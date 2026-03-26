@@ -19,10 +19,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (today)
-- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (2 days ago)
-- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (3 days ago)
-- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (3 days ago)
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (1 day ago)
+- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (3 days ago)
+- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (4 days ago)
+- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (4 days ago)
 - **[homeassistant-ai/skills](https://github.com/homeassistant-ai/skills)** - Home Assistant skills for agents (1 week ago)
 
 #### 📄 Latest posts
