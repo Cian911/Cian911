@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (1 day ago)
-- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (3 days ago)
-- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (4 days ago)
-- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (4 days ago)
-- **[homeassistant-ai/skills](https://github.com/homeassistant-ai/skills)** - Home Assistant skills for agents (1 week ago)
+- **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (1 day ago)
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (2 days ago)
+- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (4 days ago)
+- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (5 days ago)
+- **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (5 days ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (5 months ago)
