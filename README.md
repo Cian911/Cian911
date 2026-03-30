@@ -19,9 +19,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (3 days ago)
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (4 days ago)
-- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (6 days ago)
+- **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (4 days ago)
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (5 days ago)
+- **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (1 week ago)
 - **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (1 week ago)
 - **[DevashishPrasad/LCD-OCR](https://github.com/DevashishPrasad/LCD-OCR)** - This is a tesseract based OCR to read from seven segment display.  (1 week ago)
 
