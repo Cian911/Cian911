@@ -19,7 +19,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[renjithsasidharan/seven-segment-ocr](https://github.com/renjithsasidharan/seven-segment-ocr)** - Tensorflow lite model for OCR of seven segment display (4 days ago)
+- **[renjithsasidharan/seven-segment-ocr](https://github.com/renjithsasidharan/seven-segment-ocr)** - Tensorflow lite model for OCR of seven segment display (5 days ago)
 - **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (3 weeks ago)
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (3 weeks ago)
 - **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (3 weeks ago)
