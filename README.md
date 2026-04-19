@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[renjithsasidharan/seven-segment-ocr](https://github.com/renjithsasidharan/seven-segment-ocr)** - Tensorflow lite model for OCR of seven segment display (6 days ago)
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (1 day ago)
+- **[renjithsasidharan/seven-segment-ocr](https://github.com/renjithsasidharan/seven-segment-ocr)** - Tensorflow lite model for OCR of seven segment display (1 week ago)
 - **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (3 weeks ago)
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (3 weeks ago)
 - **[adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)** (3 weeks ago)
-- **[upupnaway/digital-display-character-rec](https://github.com/upupnaway/digital-display-character-rec)** (3 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (6 months ago)
