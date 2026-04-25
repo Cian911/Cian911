@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)** - Web-based MongoDB admin interface, written with Node.js and Express (3 days ago)
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 days ago)
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (6 days ago)
+- **[mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)** - Web-based MongoDB admin interface, written with Node.js and Express (4 days ago)
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (5 days ago)
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (1 week ago)
 - **[renjithsasidharan/seven-segment-ocr](https://github.com/renjithsasidharan/seven-segment-ocr)** - Tensorflow lite model for OCR of seven segment display (1 week ago)
-- **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (4 weeks ago)
+- **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (1 month ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (6 months ago)
