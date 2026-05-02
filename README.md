@@ -21,13 +21,13 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 
 - **[mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)** - Web-based MongoDB admin interface, written with Node.js and Express (1 week ago)
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (1 week ago)
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (2 weeks ago)
 - **[renjithsasidharan/seven-segment-ocr](https://github.com/renjithsasidharan/seven-segment-ocr)** - Tensorflow lite model for OCR of seven segment display (2 weeks ago)
 - **[gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse)** - A Coverage Explorer for Reverse Engineers (1 month ago)
 
 #### 📄 Latest posts
-- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (6 months ago)
-- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (6 months ago)
+- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (7 months ago)
+- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (7 months ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
