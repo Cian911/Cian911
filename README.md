@@ -19,9 +19,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 day ago)
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 days ago)
 - **[mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)** - Web-based MongoDB admin interface, written with Node.js and Express (1 week ago)
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (2 weeks ago)
 - **[renjithsasidharan/seven-segment-ocr](https://github.com/renjithsasidharan/seven-segment-ocr)** - Tensorflow lite model for OCR of seven segment display (3 weeks ago)
 
