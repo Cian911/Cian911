@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[domcyrus/rustnet](https://github.com/domcyrus/rustnet)** - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. (today)
 - **[draxinar/ouo](https://github.com/draxinar/ouo)** - OUO: reverse engineering of Ultima Online: The Second Age server (5 days ago)
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
 - **[mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)** - Web-based MongoDB admin interface, written with Node.js and Express (2 weeks ago)
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (3 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (7 months ago)
