@@ -5,11 +5,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 ![Cian's github stats](https://github-readme-stats.vercel.app/api?username=CIan911&theme=dracula&show_icons=true)
 
 #### 👨‍💻 Repositories I created recently
-- **[Cian911/gas-readings](https://github.com/Cian911/gas-readings)**
 - **[Cian911/go-agent](https://github.com/Cian911/go-agent)**
 - **[Cian911/zimaboard-monitor](https://github.com/Cian911/zimaboard-monitor)** - ESP32-based hardware monitor for CasaOS systems with OLED display, LED indicators, and Home Assistant integration via MQTT.
 - **[Cian911/torrent-go](https://github.com/Cian911/torrent-go)**
 - **[Cian911/esp32-fireplace-controller](https://github.com/Cian911/esp32-fireplace-controller)** - Reverse engineered remote control using an ESP32 for the Charlton &amp; Jenricks fireplace range.
+- **[Cian911/piper-dockerized](https://github.com/Cian911/piper-dockerized)** - Dockerized version of original piper project for voice synthesis.
 
 #### 🚀 Latest releases I've contributed to
 
@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (2 days ago)
-- **[bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts)** - A collection of Helm charts (2 days ago)
+- **[bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (3 days ago)
+- **[bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts)** - A collection of Helm charts (3 days ago)
 - **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)** - This repo includes Claude prompt curation to use Claude better. (1 week ago)
 - **[domcyrus/rustnet](https://github.com/domcyrus/rustnet)** - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. (1 week ago)
-- **[draxinar/ouo](https://github.com/draxinar/ouo)** - OUO: reverse engineering of Ultima Online: The Second Age server (1 week ago)
+- **[draxinar/ouo](https://github.com/draxinar/ouo)** - OUO: reverse engineering of Ultima Online: The Second Age server (2 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (7 months ago)
