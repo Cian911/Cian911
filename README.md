@@ -23,7 +23,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts)** - A collection of Helm charts (1 week ago)
 - **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)** - This repo includes Claude prompt curation to use Claude better. (2 weeks ago)
 - **[domcyrus/rustnet](https://github.com/domcyrus/rustnet)** - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. (2 weeks ago)
-- **[draxinar/ouo](https://github.com/draxinar/ouo)** - OUO: reverse engineering of Ultima Online: The Second Age server (2 weeks ago)
+- **[draxinar/ouo](https://github.com/draxinar/ouo)** - OUO: reverse engineering of Ultima Online: The Second Age server (3 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (7 months ago)
