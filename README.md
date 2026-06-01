@@ -19,15 +19,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[matlab-deep-learning/Seven-Segment-Digit-Recognition](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition)** - Seven Segment Digit Recognition in MATLAB (today)
-- **[jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm)** - Build your own high performance LLM inference engine in C&#43;&#43; and CUDA - a smaller version of vLLM (today)
+- **[matlab-deep-learning/Seven-Segment-Digit-Recognition](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition)** - Seven Segment Digit Recognition in MATLAB (1 day ago)
+- **[jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm)** - Build your own high performance LLM inference engine in C&#43;&#43; and CUDA - a smaller version of vLLM (1 day ago)
 - **[bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (2 weeks ago)
 - **[bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts)** - A collection of Helm charts (2 weeks ago)
-- **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)** - This repo includes Claude prompt curation to use Claude better. (2 weeks ago)
+- **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)** - This repo includes Claude prompt curation to use Claude better. (3 weeks ago)
 
 #### 📄 Latest posts
-- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (7 months ago)
-- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (7 months ago)
+- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (8 months ago)
+- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (8 months ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
