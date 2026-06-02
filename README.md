@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)** - Tater/Home Assistant voice satellite firmware and microWakeWords for VoicePE, Satellite1, and ReSpeaker XVF3800 with microWakeWord, openWakeWord, and nanoWakeWord support. (today)
+- **[bradcrc/Billy-Bass-Voice-Assistant](https://github.com/bradcrc/Billy-Bass-Voice-Assistant)** - A Home Assistant Voice Assistant using a Singing Big Mouth Billy Bass (today)
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (today)
 - **[matlab-deep-learning/Seven-Segment-Digit-Recognition](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition)** - Seven Segment Digit Recognition in MATLAB (2 days ago)
 - **[jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm)** - Build your own high performance LLM inference engine in C&#43;&#43; and CUDA - a smaller version of vLLM (2 days ago)
-- **[bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (2 weeks ago)
-- **[bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts)** - A collection of Helm charts (2 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (8 months ago)
