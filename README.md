@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)** - Tater/Home Assistant voice satellite firmware and microWakeWords for VoicePE, Satellite1, and ReSpeaker XVF3800 with microWakeWord, openWakeWord, and nanoWakeWord support. (1 day ago)
-- **[bradcrc/Billy-Bass-Voice-Assistant](https://github.com/bradcrc/Billy-Bass-Voice-Assistant)** - A Home Assistant Voice Assistant using a Singing Big Mouth Billy Bass (1 day ago)
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
-- **[matlab-deep-learning/Seven-Segment-Digit-Recognition](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition)** - Seven Segment Digit Recognition in MATLAB (3 days ago)
-- **[jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm)** - Build your own high performance LLM inference engine in C&#43;&#43; and CUDA - a smaller version of vLLM (3 days ago)
+- **[TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)** - Tater/Home Assistant voice satellite firmware and microWakeWords for VoicePE, Satellite1, and ReSpeaker XVF3800 with microWakeWord, openWakeWord, and nanoWakeWord support. (2 days ago)
+- **[bradcrc/Billy-Bass-Voice-Assistant](https://github.com/bradcrc/Billy-Bass-Voice-Assistant)** - A Home Assistant Voice Assistant using a Singing Big Mouth Billy Bass (2 days ago)
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
+- **[matlab-deep-learning/Seven-Segment-Digit-Recognition](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition)** - Seven Segment Digit Recognition in MATLAB (4 days ago)
+- **[jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm)** - Build your own high performance LLM inference engine in C&#43;&#43; and CUDA - a smaller version of vLLM (4 days ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (8 months ago)
