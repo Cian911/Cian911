@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[sensy-one/AirDot](https://github.com/sensy-one/AirDot)** - Welcome to the official GitHub repository for the Sensy-One AirDot, a smart indoor air-quality display that works standalone, offline, or connected to Home Assistant. Here you’ll find detailed specs, setup instructions, firmware update guidance, and everything you need to get the most out of your AirDot. (1 day ago)
+- **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (1 day ago)
+- **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** - A community-maintained Python framework for creating mathematical animations.  (1 day ago)
+- **[sensy-one/AirDot](https://github.com/sensy-one/AirDot)** - Welcome to the official GitHub repository for the Sensy-One AirDot, a smart indoor air-quality display that works standalone, offline, or connected to Home Assistant. Here you’ll find detailed specs, setup instructions, firmware update guidance, and everything you need to get the most out of your AirDot. (2 days ago)
 - **[TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)** - Tater/Home Assistant voice satellite firmware and microWakeWords for VoicePE, Satellite1, and ReSpeaker XVF3800 with microWakeWord, openWakeWord, and nanoWakeWord support. (1 week ago)
 - **[bradcrc/Billy-Bass-Voice-Assistant](https://github.com/bradcrc/Billy-Bass-Voice-Assistant)** - A Home Assistant Voice Assistant using a Singing Big Mouth Billy Bass (1 week ago)
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
-- **[matlab-deep-learning/Seven-Segment-Digit-Recognition](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition)** - Seven Segment Digit Recognition in MATLAB (2 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (8 months ago)
