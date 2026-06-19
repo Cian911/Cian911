@@ -19,9 +19,9 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (4 days ago)
-- **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** - A community-maintained Python framework for creating mathematical animations.  (4 days ago)
-- **[sensy-one/AirDot](https://github.com/sensy-one/AirDot)** - Welcome to the official GitHub repository for the Sensy-One AirDot, a smart indoor air-quality display that works standalone, offline, or connected to Home Assistant. Here you’ll find detailed specs, setup instructions, firmware update guidance, and everything you need to get the most out of your AirDot. (5 days ago)
+- **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (5 days ago)
+- **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** - A community-maintained Python framework for creating mathematical animations.  (5 days ago)
+- **[sensy-one/AirDot](https://github.com/sensy-one/AirDot)** - Welcome to the official GitHub repository for the Sensy-One AirDot, a smart indoor air-quality display that works standalone, offline, or connected to Home Assistant. Here you’ll find detailed specs, setup instructions, firmware update guidance, and everything you need to get the most out of your AirDot. (6 days ago)
 - **[TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)** - Tater/Home Assistant voice satellite firmware and microWakeWords for VoicePE, Satellite1, and ReSpeaker XVF3800 with microWakeWord, openWakeWord, and nanoWakeWord support. (2 weeks ago)
 - **[bradcrc/Billy-Bass-Voice-Assistant](https://github.com/bradcrc/Billy-Bass-Voice-Assistant)** - A Home Assistant Voice Assistant using a Singing Big Mouth Billy Bass (2 weeks ago)
 
