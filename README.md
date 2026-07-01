@@ -19,15 +19,15 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Cian911/smart-gas-meter](https://github.com/Cian911/smart-gas-meter)** - Read your gas meter automatically with a Raspberry Pi, a camera, and a YOLOv8 object detector — digit recognition, Home Assistant integration, and automatic submission to Gas Networks Ireland. (today)
+- **[jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)** - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (1 day ago)
+- **[Cian911/smart-gas-meter](https://github.com/Cian911/smart-gas-meter)** - Read your gas meter automatically with a Raspberry Pi, a camera, and a YOLOv8 object detector — digit recognition, Home Assistant integration, and automatic submission to Gas Networks Ireland. (1 day ago)
 - **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (2 weeks ago)
 - **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** - A community-maintained Python framework for creating mathematical animations.  (2 weeks ago)
 - **[sensy-one/AirDot](https://github.com/sensy-one/AirDot)** - Welcome to the official GitHub repository for the Sensy-One AirDot, a smart indoor air-quality display that works standalone, offline, or connected to Home Assistant. Here you’ll find detailed specs, setup instructions, firmware update guidance, and everything you need to get the most out of your AirDot. (2 weeks ago)
-- **[TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)** - Tater/Home Assistant voice satellite firmware and microWakeWords for VoicePE, Satellite1, and ReSpeaker XVF3800 with microWakeWord, openWakeWord, and nanoWakeWord support. (4 weeks ago)
 
 #### 📄 Latest posts
-- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (8 months ago)
-- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (8 months ago)
+- [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (9 months ago)
+- [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (9 months ago)
 - [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
