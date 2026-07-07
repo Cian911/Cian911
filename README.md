@@ -19,11 +19,11 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
+- **[Fergana-Labs/stash](https://github.com/Fergana-Labs/stash)** - Shared memory for your team&#39;s coding agents (today)
 - **[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** - A Patch for GIMP 3&#43; for Photoshop Users (today)
 - **[jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)** - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (1 week ago)
 - **[Cian911/smart-gas-meter](https://github.com/Cian911/smart-gas-meter)** - Read your gas meter automatically with a Raspberry Pi, a camera, and a YOLOv8 object detector — digit recognition, Home Assistant integration, and automatic submission to Gas Networks Ireland. (1 week ago)
 - **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (3 weeks ago)
-- **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** - A community-maintained Python framework for creating mathematical animations.  (3 weeks ago)
 
 #### 📄 Latest posts
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (9 months ago)
