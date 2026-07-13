@@ -19,16 +19,16 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Fergana-Labs/stash](https://github.com/Fergana-Labs/stash)** - Shared memory for your team&#39;s coding agents (5 days ago)
-- **[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** - A Patch for GIMP 3&#43; for Photoshop Users (5 days ago)
+- **[Fergana-Labs/stash](https://github.com/Fergana-Labs/stash)** - Shared memory for your team&#39;s coding agents (6 days ago)
+- **[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** - A Patch for GIMP 3&#43; for Photoshop Users (6 days ago)
 - **[jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)** - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (1 week ago)
 - **[Cian911/smart-gas-meter](https://github.com/Cian911/smart-gas-meter)** - Read your gas meter automatically with a Raspberry Pi, a camera, and a YOLOv8 object detector — digit recognition, Home Assistant integration, and automatic submission to Gas Networks Ireland. (1 week ago)
 - **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (4 weeks ago)
 
 #### 📄 Latest posts
+- [How I Taught a Raspberry Pi to Read My Gas Meter with a Neural Network](https://ciangallagher.me/2026/07/11/I-Taught-a-Raspberry-Pi-to-Read-My-Gas-Meter/) (2 days ago)
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (9 months ago)
 - [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (9 months ago)
-- [Building a CO2 sensor using a Pi PicoW &amp; automating a home ventilation system part 2](https://ciangallagher.me/2023/11/27/Co2-sensor-using-tiny-go-part-2/) (2 years ago)
 
 #### 💬 Feedback
 
