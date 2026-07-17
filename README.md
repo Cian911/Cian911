@@ -26,7 +26,7 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 - **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (1 month ago)
 
 #### 📄 Latest posts
-- [How I Taught a Raspberry Pi to Read My Gas Meter with a Neural Network](https://ciangallagher.me/2026/07/11/I-Taught-a-Raspberry-Pi-to-Read-My-Gas-Meter/) (5 days ago)
+- [How I Taught a Raspberry Pi to Read My Gas Meter with a Neural Network](https://ciangallagher.me/2026/07/11/I-Taught-a-Raspberry-Pi-to-Read-My-Gas-Meter/) (6 days ago)
 - [Turning a Singing Fish into a Smart AI Assistant with ESP32 and Home Assistant](https://ciangallagher.me/2025/10/04/Turning-A-Singing-Fish-Into-A-SMart-AI-Assistant/) (9 months ago)
 - [How to Build an ESP8266 Infrared Smart Controller for Home Assistant](https://ciangallagher.me/2025/10/04/I-Built-My-Own-Infrared-Remote-To-Control-My-Smart-Home/) (9 months ago)
 
