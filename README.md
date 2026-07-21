@@ -19,10 +19,10 @@ I'm Cian! I'm a Senior Software Engineer based in Dublin, Ireland.
 #### ⭐ Recent Stars
 
 
-- **[Fergana-Labs/stash](https://github.com/Fergana-Labs/stash)** - Shared memory for your team&#39;s coding agents (1 week ago)
-- **[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** - A Patch for GIMP 3&#43; for Photoshop Users (1 week ago)
-- **[jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)** - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (2 weeks ago)
-- **[Cian911/smart-gas-meter](https://github.com/Cian911/smart-gas-meter)** - Read your gas meter automatically with a Raspberry Pi, a camera, and a YOLOv8 object detector — digit recognition, Home Assistant integration, and automatic submission to Gas Networks Ireland. (2 weeks ago)
+- **[Fergana-Labs/stash](https://github.com/Fergana-Labs/stash)** - Shared memory for your team&#39;s coding agents (2 weeks ago)
+- **[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** - A Patch for GIMP 3&#43; for Photoshop Users (2 weeks ago)
+- **[jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)** - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (3 weeks ago)
+- **[Cian911/smart-gas-meter](https://github.com/Cian911/smart-gas-meter)** - Read your gas meter automatically with a Raspberry Pi, a camera, and a YOLOv8 object detector — digit recognition, Home Assistant integration, and automatic submission to Gas Networks Ireland. (3 weeks ago)
 - **[jerpint/cnn-cheatsheet](https://github.com/jerpint/cnn-cheatsheet)** - animations for visualizing operations in CNNs (1 month ago)
 
 #### 📄 Latest posts
